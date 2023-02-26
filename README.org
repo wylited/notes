@@ -9,31 +9,52 @@ Personal notes that I take, you may find this filled with useful resources.
 
 ** Table of Contents
 
-#+Name: directory tree
-#+BEGIN_SRC
 .
+
 ├── [[file:cheatsheet.org][cheasheet.org]]
+
 ├── igcse
+
 │  ├── biology
+
 │  │  ├── [[file:igcse/biology/biology.ogr][biology.org]]
+
 │  │  ├── [[file:igcse/biology/igcse-biology-2017-spec.pdf][igcse-biology-2017-spec.pdf]]
+
 │  │  └── syllabus.org
+
 │  ├── chemistry
+
 │  │  ├── chemistry.org
+
 │  │  └── syllabus.org
+
 │  ├── compsci
+
 │  │  ├── compsci.org
+
 │  │  └── syllabus.org
+
 │  ├── economics
+
 │  │  ├── economics.org
+
 │  │  └── syllabus.org
+
 │  ├── igcse.org
+
 │  ├── lang
+
 │  │  └── lang.org
+
 │  ├── lit
+
 │  │  └── lit.org
+
 │  └── physics
+
 │     ├── physics.org
+
 │     └── syllabus.org
+
 └── README.org
-#+END_SRC
