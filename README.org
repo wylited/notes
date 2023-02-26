@@ -1,0 +1,8 @@
+* notes
+Personal notes that I take, you may find this filled with useful resources.
+
+** Branches
+- iGCSE (main)
+- IB
+- Extra
+- Uni
