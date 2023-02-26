@@ -9,6 +9,8 @@ Personal notes that I take, you may find this filled with useful resources.
 
 ** Table of Contents
 
+#+Name: directory tree
+#+BEGIN_SRC
 .
 ├── [[file:cheatsheet.org][cheasheet.org]]
 ├── igcse
@@ -34,3 +36,4 @@ Personal notes that I take, you may find this filled with useful resources.
 │     ├── physics.org
 │     └── syllabus.org
 └── README.org
+#+END_SRC
