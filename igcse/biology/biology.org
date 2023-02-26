@@ -1,0 +1,80 @@
+* The Edexcel 2017 Biology curriculum
+(Triple science)
+
+** Paper 1 4BI1/1B
+- Same as the double science paper 4SD0/1B
+- 110 marks, 120 minutes
+- 61.1% weighted
+- Content:
+  - Nature and Variety of living organisms
+  - Structures and functions in living organisms
+  - Reproduction and inheritance
+  - Ecology and environment
+  - Use of biological resources
+- NOTE: none of the triple science specific content.
+
+** Paper 2 4BI1/2B
+- Unique, triple science paper
+- 70 marks, 75 minutes
+- 38.9% weighted
+- Content is the same and includes bold, triple science specific content.
+
+** Content
+Brief overview of content and how much I have notes on, topics on bold are specfically only triple science.
+
+- Characterstics of living organisms
+- Variety of living organisms
+  - Eukaryotic
+  - Prokaryotic
+  - Pathogens
+- Structure of living organisms
+  - Levels of organisations
+  - Biological molecules
+  - Movement of substance
+- Functions of living organisms
+  - Nutrition
+    - Photosynthesis
+    - Saprotrophic
+    - Balanced diet
+    - Digestion
+  - Respiration
+    - Aerobic, Anaerobic
+  - Gas exchange
+    - *Leaves*
+    - Lungs
+  - Transport
+    - Xylem and Phleom
+    - *Transpiration*
+    - Circulation
+    - Immune system
+  - Excretion
+    - Stomata
+    - *Kidneys*
+  - Coordination
+    - Nervous system
+  - Reproduction
+    - Flowers, Seeds
+    - Menstrual cycle
+    - Puberty
+    - Pregnancy
+  - Inheritance
+    - Genes
+    - Mitosis, Meiosis
+    - Variation, Mutation
+    - Natural selection
+- Ecology
+  - Environment
+    - *Biodiversity*
+  - Feeding relationships
+  - Cycles
+    - Carbon
+    - *Nitrogen*
+  - Human influence
+- Biological Resources
+  - Food production
+    - Crops
+    - Micro-organism
+    - *Fish*
+  - Selective Breeding
+  - Genetic Modification
+  - *Cloning*
