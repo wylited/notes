@@ -1,4 +1,4 @@
-* The Edexcel 2017 Biology curriculum
+* The Edexcel 2017 Biology Curriculum
 (Triple science)
 
 ** Paper 1 4BI1/1B
@@ -14,7 +14,7 @@
 - NOTE: none of the triple science specific content.
 
 ** Paper 2 4BI1/2B
-- Unique, triple science paper
+- A unique triple science paper
 - 70 marks, 75 minutes
 - 38.9% weighted
 - Content is the same and includes bold, triple science specific content.
