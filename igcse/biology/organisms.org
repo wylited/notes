@@ -1,3 +1,5 @@
+#+TITLE: Organisms
+#+AUTHOR: Wylited
 * Organisms
 
 ** Nature
@@ -17,12 +19,12 @@ If they cant do this, they aren't qualified as living.
 There are a variety of living organisms, split into eukaryotes and prokaryotes.
 Common differences table.
 
-| Eukaryotes            | Prokaryotes       |
-| Usually multicellular | Unicellular       |
-| More complex cell     | Less complex      |
-| DNA in nucleus        | DNA in cytoplasm  |
-| Mitochondria          | No Mitochondria   |
-| Larger Ribosomes      | Smaller Ribosomes |
+| Eukaryotes                | Prokaryotes       |
+| Usually **multicellular** | **Unicellular**   |
+| More complex cell         | Less complex      |
+| DNA in nucleus            | DNA in cytoplasm  |
+| Mitochondria              | No Mitochondria   |
+| Larger Ribosomes          | Smaller Ribosomes |
 
 *** Eukaryotes
 - Either mutlicellular or unicellular
@@ -42,9 +44,10 @@ Common differences table.
 - eg: Insects, Humans, Horses, Mice
 
 **** Fungi
-- Are a *mycellium*, made from thread like structures called *hyphae*
+- Are a **mycellium**, made from thread like structures called **hyphae**
 - Some are multicellular, some are unicellular
-- Saprotrophic nutrition
+- Chitin cell wall
+- **Saprotrophic** nutrition
   - They use extracellular secretion of digestive enzymes onto food
 - Store carbohydrates as glycogen
 - eg: Mucor, Yeast
@@ -59,7 +62,7 @@ Common differences table.
 
 **** Bacteria
 - Lack a nucleus, instead carry DNA in cytoplasm
-- *Plasmids*
+- **Plasmids**
 - Some do photosynthesis
 - Lactobaccilus lugaricus: Makes yogurt from milk
 - Pneumococcus: causes pneumonia
@@ -68,10 +71,11 @@ Common differences table.
 Organisms that cause diseases
 
 **** Viruses
+Parasites, ew.
 - Not considered living
-- No cellular structure but they have a protein coat
+- No cellular structure but they have a **protein coat**
 - Contain either DNA or RNA
 - eg: Influenza (FLU), HIV (AIDS)
 
 ** Structure
-Organisms are made up of systems which are made up of organs which are made up of tissues which are made up of cells which are made up of organelles.
+**Organisms** are made up of **systems** which are made up of **organs** which are made up of **tissues** which are made up of **cells** which are made up of **organelles**.
