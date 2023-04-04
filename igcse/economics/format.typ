@@ -46,7 +46,7 @@
 
 
   // Table of contents.
-  outline(depth: 3, indent: true)
+  outline(depth: 4, indent: true)
   pagebreak()
 
 
