@@ -10,8 +10,17 @@ Personal notes that I take, you may find this filled with useful resources.
 ** Table of Contents
 
 - [[file:cheatsheet.org][cheasheet.org]]
-- igcse/
-  - biology/
-    - [[file:igcse/biology/biology.ogr][biology.org]]
-    - [[file:igcse/biology/igcse-biology-2017-spec.pdf][igcse-biology-2017-spec.pdf]]
+- [[./igcse][igcse/]]
+  - [[./igcse/economics/][economics/]]
+    - [[file:igcse/economics/economics.pdf][economics.pdf]]
+    - [[file:igcse/economics/economics.typ][economics.typ]]
+    - [[file:igcse/economics/format.typ][format.typ]]
+    - [[file:igcse/economics/graphics/][graphics/]]
+  - [[./igcse/biology/][biology/]]
+    - [[./igcse/biology/biology.org][biology.org]]
+    - [[./igcse/biology/igcse-biology-2017-spec.pdf][igcse-biology-2017-spec.pdf]]
+    - [[file:igcse/biology/organisms.org][organisms.org]]
+    - [[file:igcse/biology/cell.org][cell.org]]
+    - [[file:igcse/biology/cell.org][cloning.org]]
+    - [[file:igcse/biology/transgenics.org][transgenics.org]]
 - [[file:README.org][README.org]]
