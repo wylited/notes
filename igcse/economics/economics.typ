@@ -243,17 +243,17 @@ Supply and *price* are _directly proportional_. This means that as the price of 
 #image("graphics/supply-shift.png", width: 75%)
 
 ==== Price Elasticity of Supply
-A measure of the responsiveness of supply to a change in price. (PES)
+A measure of the responsiveness of supply to a change in price. (*PES*)
 
 PES = $(% Delta S) / (% Delta P)$
 
 #image("graphics/PES.png", width: 100%)
 
 ===== Non-price factors of PES
-- Time - the longer it takes to produce a good, the higher the PES (proportional)
-- Mobility of factors of production - the more mobile the factors of production, the higher the PES (proportional)
-- Wasted capacity - the more capacity wasted, the lower the PES (proportional)
-- Shelf Life - the longer the shelf life, the higher the PES (proportional)
+- Time - the longer it takes to produce a good, the higher the PES (*proportional*)
+- Mobility of factors of production - the more mobile the factors of production, the higher the PES (*proportional*)
+- Wasted capacity - the more capacity wasted, the lower the PES (*proportional*)
+- Shelf Life - the longer the shelf life, the higher the PES (*proportional*)
 
 ===== Applications of PES
 + Primary commodoties have lower PES than manufactured goods because
@@ -265,8 +265,61 @@ PES = $(% Delta S) / (% Delta P)$
 
 #pagebreak()
 
-== Markets
-"the long awaited cross over of demand and supply"
+=== Markets
+
+"the long awaited crossover of demand and supply"
+
+#image("graphics/market.png", width: 75%)
+
+The *market equilibrium* is where the _quantitied supplied_ is equal to _quantity demanded_.
+
+
+This equilibrium is reached by a the *price mechanism* / *forces*.
+- Excess *Supply*: $Q_s - Q_d$. When quantity supplied exceeds quantity demanded, the price falls until the quantity supplied is equal to the quantity demanded.
+
+- Excess *Demand*: $Q_d - Q_s$. When quantity demanded exceeds quantity supplied, the price rises until the quantity supplied is equal to the quantity demanded.
+
+When describing changes in equlibrium, keep in mind:
+- Which curve it affects?
+- Which curve replaces the other?
+- What factors caused it to shift?
+- What is the new equlibrium?
+- What is the movement in the other curve?
+
+== The Price Mechanism
+also known as the *invisible hand*, *market mechanism*, *forces of supply and demand*, *market forces* or *resource allocation*. It is the process by which the price of a good is determined by the interaction of supply and demand. This occurs mostly in *free markets*
+
+The condition of scarcity of resources and infinite wants forces decisionmakers to make decisions like:
+- What to produce? (which point on the PPC)
+- How to produce? (which combination and amount of resources)
+
+There are two functions that makes up the price mechanism:
+- The signalling function
+  - Prices communicate information to decision makers about whether to leave or enter markets.
+- The incentive function
+  - Prices motivate decision makers to respond to the information.
+
+== Economies
+An economy is a system that attempts to solve the economic problem.
+
+There are 3 major types of economies:
++ The free market
+  - Entities have complete freedom.
+  - Economic goods are determined by market forces
++ The mixed economy
+  - Use both free and command economy ideology
+  - Some governement intervention to prevent market failure.
++ The command economy
+  - Government makes all decisions
+  - Can be rather ineffecient due to lack of information.
+
+=== Mixed Economies
+The main focus of this course is on mixed economies. This is because they are the most common type of economy in the world.
+
+It is made up of two different sectors, the private sector and the public sector.
+==== Private Sector
+
+==== Public Sector
 
 #pagebreak()
 
