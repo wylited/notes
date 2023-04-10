@@ -317,9 +317,124 @@ There are 3 major types of economies:
 The main focus of this course is on mixed economies. This is because they are the most common type of economy in the world.
 
 It is made up of two different sectors, the private sector and the public sector.
+
+
+Public goods have two characteristics.
+- Non excludable
+  - Once the good is in the market no consumer can be prevented or excluded from the consumption of the good.
+- Non rivalrous
+  - Consumption of a product doesn't deplete the amount for others.
+
+These two characteristics lead to the *free rider problem*. A free rider is someone who consumes a public good without paying for it. This leads to a situation where the public sector is unable to recover the costs of producing the good.
+
+Private goods do not face these issues.
+
 ==== Private Sector
+The private sector is comprised of individual entites like a sole trader, partnerships or companies/firms.
+
+Aims: (production of private goods)
+- Survival and _profit_
+- Growth
+- Social responsibility
 
 ==== Public Sector
+The public sector is comprised of central governed organizations, state owned enterprises or local authority services (non-exhaustive.)
+
+Aims: (production of public goods)
+- Improve _quality_ of services
+- Minimize costs, maximise profits.
+- allow for *social cost* + benefit.
+
+==== Privatization
+The transfer of a business, industry or service from public to private control and ownership.
+
+#table(
+  columns: (auto, auto),
+  inset: 10pt,
+  align: horizon,
+  [party], [effects],
+  [Government - positive effect],
+  [
+    - Less fiscal burden \
+    - Generates revenue \
+    - Removal of responsibility 
+  ],
+  [Firm - neutral effect],
+  [
+    - No _government interference_ -> have to face higher *competition* \
+    - Shifted objectives to *profit* and no _social responsibility_ -> more *efficient* \
+    - Increased *investment*
+  ],
+  [Consumers - neutral effect],
+  [
+    - _Prices_ may rise of fall depending on the asset transferred
+  ],
+  [Workers - negative effect],
+  [
+    - May cause mass *firings* to reduce costs \
+    - Removal of redundant workers \
+    - Higher _productivities_ \
+  ],
+  [The Economy],
+  [
+    - Higher *efficiency* due to higher competition \
+    - Private *monopolies* may abuse their position \ 
+  ]
+)
+
+#pagebreak()
+
+=== Market Failure
+A situation where there is an inefficient distribution of economic goods as well as raw materials in the market.
+
+The free rider problem is an example of market failure.
+
+Other cases include:
+- Externalities
+- Lack of competition
+- Missing markets
+- Lack of information
+- Low mobility of factors of production
+
+==== Externalities
+Externalities is one of the major market failures discussed. Externalities are the cost or benefit of an economic activity onto a third party. These are described as a spill over effect.
+
+Externalities are a result of consumption or production.
+
+There are also private costs and benefits, these are costs incurred or benefits of economic activity onto the first party.
+
+This leads to social costs and benefits, the sum of private and external costs and benefits.
+
+Social cost = private cost + external cost
+
+Social benefit = private benefit + external benefit
+
+#linebreak()
+
+So what does the government do about externalities?
+
+- Negative production externalities
+  - Government regulations
+  - Taxes on output
+  - Taxes on pollutants
+
+- Negative consumption externalities
+  - Government regulations
+  - Advertising against the good
+  - Market based policies (payments)
+    - indirect taxes.
+
+- Positive production externalities
+  - Direct governemnt provision
+  - Subsidies
+
+- Positive consumption externalities
+  - Legislation (compulsory education on topics like vaccines or medicine)
+  - Advertising
+  - Direct provision
+  - Subsidising consumption
+
+=== Production
 
 #pagebreak()
 
