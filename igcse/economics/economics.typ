@@ -824,6 +824,87 @@ Competition & *Economy*:
 + Type of market
 + Aims of entrepreneur
 
+#pagebreak()
+
+== The Labour Market 
+Describing the market of workers for a certain firm or product. The supply of workers to the demand at a certain wage point.
+
+The price of labour is wage.
+
+#image("graphics/labour.png", width:75%)
+
+The labour graph is very similar to that of an economic good, where the supply and demand of labour is shown. The equilibrium wage is the point where the supply and demand of labour meet.
+
+Similar to the market forces for a good, wages for labour are determined by the forces of supply and demand. However, the wages can also be changed by trade unions or minimum wages set by governments.
+
+=== Demand of labour
+The demand of labour is the amount of workers that a firm wants to hire at a certain wage. The demand of labour is affected by:
+- Demand for product
+- Availability of labour substitutes
+- The productivity of labour
+- Other employment costs
+
+=== Supply of labour
+The supply of labour is the amount of workers that are willing to work at a certain wage. The supply of labour is affected by:
+- Population size
+- Migration
+- Age distribution of population
+- Retirement age
+- School leaving age
+- Female participation
+- Skills
+- Mobility of Labour
+
+=== Labour Mobility
+The ability of workers to move from one job to another.
+
+There are 3 types of labour mobility:
+- *Geographical mobility*
+ - The ability of workers to move from one geographical area to another easily.
+- *Occupational mobility*
+ - The ability of workers to move from one job to another easily.
+- *Industrial mobility*
+ - The ability of workers to move from one industry to another easily. (or sector)
+
+Education and training increases labour mobility.
+- Labour mobility boosts supply of labour in markets.
+
+=== Trade Unions
+
+Trade unions are organisations that represent workers in negotiations with employers and are formed in order to protect the interests of workers.. They are also known as labour unions.
+
+Aims:
+- Negotiate pay
+- Provide legal pay / protection in a case against employees
+- Improve worker rights
+- Provide financial benefit and strike pay
+
+Strong trade unions can force higher wages in markets when it hasd full support fromn the workers. 
+
+Companies also depend on the quality and quantity of labour in a market. Labour needs to meet the skills and count to maintain production and quality.
+
+== Government intervention
+
+Governments intervene to stop stupid things from happening. If they don't intervene, business may neglect certain stake holders.
+
+Externality interventions:
+- taxations
+- subsidies
+- fines
+- regulation
+- pollution permits
+
+Governments also regulate Competition
+- promote competition
+- limit monopoly power
+- protect consumer interest
+- control merges and takeovers
+
+Governments also intervene in the labour market
+- Minimum wage
+- Unemployment benefits
+- Training and education
+- Trade unions
 
 = Macroeconomics
 
