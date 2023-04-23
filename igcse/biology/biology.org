@@ -25,8 +25,8 @@
 ** Content
 Brief overview of content and how much I have notes on, topics on bold are specfically only triple science.
 
-- Characterstics of living organisms
-- Variety of living organisms
+- [[file:organisms.org][Characterstics of living organisms]]
+- [[file:organisms.org][Variety of living organisms]]
   - Eukaryotic
   - Prokaryotic
   - Pathogens
