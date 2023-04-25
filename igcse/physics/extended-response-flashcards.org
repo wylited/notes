@@ -1,0 +1,23 @@
+#+title: Extended Response Flashcards
+
+* Forces and Motion
+** Double Science
+
+Thinking Distance:
+- Tiredness/energy of driver
+- Age of driver
+- Alcohol/drug consumption
+- Distractions
+
+Braking Distance:
+- Mass/weight of car
+- Condition of breaks
+- Condition of tyres
+- Slope of road
+
+Terminal Velocity:
+- Air resistance > weight
+- Resultant force is upwards (air resistance = weight)
+- constant speed is achieved (no acceleration)
+
+** Triple Science
