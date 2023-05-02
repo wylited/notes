@@ -21,3 +21,38 @@ Terminal Velocity:
 - constant speed is achieved (no acceleration)
 
 ** Triple Science
+
+* Electricity
+** Double Science
+
+** Triple Science
+
+* Waves
+** Double Science
+
+** Triple Science
+
+* Energy resources and transfers
+** Double Science
+
+** Triple Science
+
+* Solids Liquids and Gases
+** Double Science
+
+** Triple Science
+
+* Magnetism and Electromagnetism
+** Double Science
+
+** Triple Science
+
+* Radioactivity and Particles
+** Double Science
+
+** Triple Science
+
+* Astrophysics
+** Double Science
+
+** Triple Science
