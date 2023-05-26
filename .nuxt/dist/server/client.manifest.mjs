@@ -1,0 +1,1 @@
+export { default } from "file:///home/wyli/org/notes/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
