@@ -8,7 +8,7 @@ export default {
 
 <template>
     <div class="hero min-h-screen bg-base-200 min-w-[50%]">
-        <div class="hero-content text-center flex-col min-w-[50%]">
+        <div class="hero-content text-start flex-col min-w-[50%]">
             <div class="text-sm breadcrumbs text-start">
                 <ul>
                     <li v-for="item in items">
@@ -17,7 +17,7 @@ export default {
                 </ul>
             </div>
 
-            <div class="mr-a ml-a border-y-2 min-w-[50%] border-neutral">
+            <div class="mr-a ml-a border-y-2 min-w-[50%] border-neutral leading-5">
                 <slot />
             </div>
         </div>
