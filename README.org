@@ -1,5 +1,7 @@
 * notes
 Personal notes that I take, view this on the web at [notes](https://notes.wyli.tech)
+This is organized in a loose manner where all notes are stored under the ./notes/ directory.
+Under ./notes/tags/ are all of the tags in the project and automatically updated.
 
 ** Branches
 - IB (main)
