@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4e64d7a2-7140-424c-8a68-32f07b1fcfc0
+:END:
+#+title: test2
+
+* test part 2 :tests:notes:
+
+force is mass and acceleration (vector unit)
+
+$$ f = ma $$

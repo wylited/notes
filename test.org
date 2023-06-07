@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       cfcb56c4-b948-4249-8dda-e47a16db456d
+:END:
+
+* test :tests:
+
+test one that is
+alright
+
+tests are really just used for testing
+here is another test
+[[id:4e64d7a2-7140-424c-8a68-32f07b1fcfc0][test2]]
