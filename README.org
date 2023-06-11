@@ -6,19 +6,21 @@ This repo uses the Org-Roam packages which allows me to connect notes easily.
 
 To publish a new update to the notes, making sure you have [[https://github.com/jgru/org-roam-ui/tree/add-export-capability][this fork and tree of org-roam-ui]], run src_elisp{org-roam-ui-export}
 
-and select the directory as
-
-```src\```
+and select the directory as `src\`
 
 afterwards, assuming you are using doom emacs, you can patch the org-roam-ui server by running
 
-```sudo bash build-standalone-server.sh /home/wyli/org/notes/src```
+#+BEGIN_SRC bash
+sudo bash build-standalone-server.sh /home/wyli/org/notes/src
+#+END_SRC
 
 where the build-standalone-server.sh is where the git repo for emacs is stored
 
-afterwards you can copy the contents directly to /out here using
+afterwards you can copy the contents directly to `/out` here using
 
-```cp -r out/ ~/org/notes/```
+#+BEGIN_SRC bash
+cp -r out/ ~/org/notes/
+#_END_SRC
 
 and then you're set.
 
