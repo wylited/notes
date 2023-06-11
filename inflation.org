@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       95e7a11d-3bd2-441a-84d2-645816b46533
+:END:
+#+title:Inflation
+
+* TODO Inflation :econ:

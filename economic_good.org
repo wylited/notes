@@ -3,4 +3,4 @@
 :END:
 #+title: Economic Goods
 
-* TODO Economic Goods and Services
+* TODO Economic Goods and Services :econ:

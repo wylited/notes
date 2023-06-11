@@ -4,7 +4,12 @@
 #+title: Macroeconomics
 
 * Macroeconomics :econ:
-:PROPERTIES:
-:ID:       9a4a82b4-7443-4928-b20a-806c930d33bd
-:END:
 Macroeconomics is a branch of [[id:09482338-43cc-4a77-bf7f-6ed732eb21a8][economics]] that studies the perfomance of the [[id:908979e3-4240-4b4d-ad02-62e08dcc0795][economy]] as a whole.
+
+The government profiles this with the following objectives:
+- Maximising [[id:7b006f3a-42d5-4ce5-b374-2ac0f7885bea][employment]]
+- Equality of income
+- Stable & low [[id:95e7a11d-3bd2-441a-84d2-645816b46533][inflation]]
+- [[id:fb5b1a7e-b5e8-4cf6-852c-4aa1462b3205][Economic growth]]
+- [[id:a200bf07-fbdd-4a84-8e5a-e416acefd153][Current account]] surplus
+- [[id:11d164da-fee4-45f6-bd50-8d3546a441f4][Protecting environment]]
