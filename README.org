@@ -2,6 +2,26 @@
 Personal notes that I take, view this on the web at [[notes][https://notes.wyli.tech]]
 This repo uses the Org-Roam packages which allows me to connect notes easily.
 
+** Publishing
+
+To publish a new update to the notes, making sure you have [[https://github.com/jgru/org-roam-ui/tree/add-export-capability][this fork and tree of org-roam-ui]], run src_elisp{org-roam-ui-export}
+
+and select the directory as
+
+src_bash{src\}
+
+afterwards, assuming you are using doom emacs, you can patch the org-roam-ui server by running
+
+src_bash{sudo bash build-standalone-server.sh /home/wyli/org/notes/src}
+
+where the build-standalone-server.sh is where the git repo for emacs is stored
+
+afterwards you can copy the contents directly to /out here using
+
+src_bash{cp -r out/ ~/org/notes/}
+
+and then you're set.
+
 ** Branches
 - IB (main)
 - iGCSE (old)
