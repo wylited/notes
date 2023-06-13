@@ -1,11 +1,6 @@
-:PROPERTIES:
-:ID:       95e7a11d-3bd2-441a-84d2-645816b46533
-:END:
-#+title:Inflation
-
 * Inflation :econ:
 :PROPERTIES:
-:ID:       decb0b60-c143-4cb9-b7c8-eac161132921
+:ID:       95e7a11d-3bd2-441a-84d2-645816b46533
 :END:
 - A general and continuous rise in prices
 - A devaluation of the currency.

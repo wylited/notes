@@ -1,0 +1,8 @@
+* Aggregate demand :econ:
+:PROPERTIES:
+:ID:       68a7286c-071f-456a-b8f9-6e6ce67b6be4
+:END:
+Total demand in an economy for finished goods and services.
+It uses the same formula as [[id:6721d15f-5d93-4de8-9f0b-5f81f338b289][GDP]].
+
+$GDP = C+I+G+(X-M)$

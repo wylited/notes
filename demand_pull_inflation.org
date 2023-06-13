@@ -1,9 +1,7 @@
+* Demand pull inflation :econ:
 :PROPERTIES:
 :ID:       ff42e5c7-67c2-4922-ae01-8ec1f28adb86
 :END:
-#+title:Demand pull inflation
-
-* Demand pull inflation
 Increase in aggregate demand leading to an increase in prices.
 
 ** Causes:

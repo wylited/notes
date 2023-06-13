@@ -1,0 +1,9 @@
+* Central Bank :econ:
+:PROPERTIES:
+:ID:       b2d977e0-4c36-4342-9a89-f87f34d18b3d
+:END:
+Implement governments [[id:c763bf4e-54d3-4974-a124-c96e6b8ba8a4][monetary policy]]
+Regulate the banking system
+Lender of last resort for commercial banks
+Controlling inflation and stabilizing the currency
+Setting [[id:9742748c-33d5-4efd-99af-32d316940095][interest]] rates

@@ -1,0 +1,10 @@
+* Exchange Rates :econ:
+:PROPERTIES:
+:ID:       b8015435-a299-4c52-b015-93f1b34c886d
+:END:
+Value of one currency in comparision to another
+
+strong currency leads to cheap [[id:707e899a-a997-46cd-8889-8741048d273d][imports]], expensive [[id:5a6d476a-8567-4ed2-877f-89f60eb620bd][exports]] .
+vice versa
+
+Higher [[id:9742748c-33d5-4efd-99af-32d316940095][interest]] rates lead to higher exchange rates.

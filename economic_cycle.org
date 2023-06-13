@@ -1,9 +1,7 @@
+* Economic cycle :econ:
 :PROPERTIES:
 :ID:       6c0ff38b-d810-4556-86ae-403ecacef267
 :END:
-#+Title:Economic cycle
-
-* Economic cycle :econ:
 The rate of [[id:fb5b1a7e-b5e8-4cf6-852c-4aa1462b3205][economic growth.]]
 
 [[file:images/economic_cycle.svg][economic cycle diagram]].

@@ -1,11 +1,6 @@
-:PROPERTIES:
-:ID:       fb5b1a7e-b5e8-4cf6-852c-4aa1462b3205
-:END:
-#+title:Economic growth
-
 * TODO Economic growth :econ:
 :PROPERTIES:
-:ID:       ad67b19b-1390-49a4-8ecb-d23609cea65f
+:ID:       fb5b1a7e-b5e8-4cf6-852c-4aa1462b3205
 :END:
 An increase in the [[id:75b2b0fb-068b-4f77-9362-e90fca759456][production]] of [[id:c01a807f-754c-4a35-a42b-77a67828f82d][economic goods]] compared from one period of time to another.
 

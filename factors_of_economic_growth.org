@@ -1,9 +1,7 @@
+* Factors of economic growth :econ:
 :PROPERTIES:
 :ID:       5fc3eaed-57b1-4eb1-9865-62780cac7e8a
 :END:
-#+title:Factors of economic growth
-
-* Factors of economic growth :econ:
 - Land, rent
 - Labour, wages
 - Capital, interest

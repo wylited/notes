@@ -1,9 +1,7 @@
+* Gross Domestic Product :econ:
 :PROPERTIES:
 :ID:       6721d15f-5d93-4de8-9f0b-5f81f338b289
 :END:
-#+title:GDP
-
-* Gross Domestic Product
 
 $GDP = C+I+G+(X-M)$
 

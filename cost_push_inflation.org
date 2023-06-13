@@ -1,9 +1,7 @@
+* Cost push inflation :econ:
 :PROPERTIES:
 :ID:       c1d37250-b3c5-484f-9741-ae73e1e3a548
 :END:
-#+Title:Cost push inflation
-
-* Cost push inflation
 An increase in prices due to rising costs in productions.
 
 ** Causes

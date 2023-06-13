@@ -1,5 +1,4 @@
+* TODO Firms :econ:
 :PROPERTIES:
 :ID:       9078293b-8728-464f-8af5-ca3aa968d109
 :END:
-#+title: Firms
-* TODO Firms
