@@ -1,0 +1,5 @@
+* Households
+:PROPERTIES:
+:ID:       1ed27071-231d-4a37-bf78-497a4f33756e
+:END:
+A group of two or more persons who live in the same dwelling and are related to each other by blood, marriage, common-law union, adoption or a foster relationship.
