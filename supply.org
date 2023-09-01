@@ -1,5 +1,4 @@
-* TODO Supply
+* TODO Supply :econ:
 :PROPERTIES:
 :ID:       75f15db8-9331-495e-90ef-f3f68e7efd23
 :END:
-* TODO

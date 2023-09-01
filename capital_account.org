@@ -1,4 +1,4 @@
-* TODO Capital Account :econ:
+* Capital Account :econ:
 :PROPERTIES:
 :ID:       6962990a-d57f-4167-94e0-a4bc15e686c9
 :END:

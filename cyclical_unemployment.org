@@ -1,4 +1,4 @@
-* TODO Cyclical Unemployment :econ:
+* Cyclical Unemployment :econ:
 :PROPERTIES:
 :ID:       6227d8fa-5e2c-4c42-b56a-70e1d1ef0eae
 :END:

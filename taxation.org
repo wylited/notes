@@ -1,4 +1,4 @@
-* TODO Taxation
+* TODO Taxation :econ:
 :PROPERTIES:
 :ID:       3f6b7bc9-c7f3-449f-bbb5-bdcd2eda845b
 :END:
