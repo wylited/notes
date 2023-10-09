@@ -1,0 +1,8 @@
+* Caesium Standard :physics:
+:PROPERTIES:
+:ID:       b2841818-9e4f-4ca4-8145-2be78c05d237
+:ROAM_ALIASES: "Transition Frequency of Caesium"
+:END:
+
+The transition [[id:ba7a5d63-2ccb-4e5e-90a4-73f71b858d5f][frequency]] of Caesium, $\Delta\nu_{Cs}$ is $9,192,631,770 s^{-1}$, (in a [[id:e6bcf858-c692-4bea-b6b6-2c5924d6b728][second]]).
+It is the primary frequency standard for the definition of the [[id:e6bcf858-c692-4bea-b6b6-2c5924d6b728][second]], the [[id:4d6216d5-3d24-415b-bd06-83a9f9ef7469][SI unit]] of [[id:e3c5c6ba-e046-41b6-8fe6-64a89cc0ab3d][time]].

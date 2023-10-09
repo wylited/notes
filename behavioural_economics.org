@@ -1,4 +1,4 @@
-* Behavioural Economics
+* Behavioural Economics :econ:
 :PROPERTIES:
 :ID:       91810fd7-a0d0-429b-b36c-e25a40aca3a5
 :END:

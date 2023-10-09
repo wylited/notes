@@ -1,9 +1,7 @@
+* Angles in the same segment theorem :math:aahl:
 :PROPERTIES:
 :ID:       54ae23e4-aaab-47eb-a279-0214b056d407
 :END:
-#+title: Angles in same segment
-
-* Angles in the same segment Theorem
 
 Angles in the same segment theorem is a [[id:c5a09e14-7f6c-4610-ad44-5b150ba344f8][circle theorem]] that states that angles that share a common chord in a circle and lie in the same segment of the circle are equal.
 

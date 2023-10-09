@@ -1,4 +1,4 @@
-* Households
+* Households :econ:
 :PROPERTIES:
 :ID:       1ed27071-231d-4a37-bf78-497a4f33756e
 :END:
