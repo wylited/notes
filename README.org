@@ -18,7 +18,7 @@ afterwards, assuming you are using doom emacs, you can patch the org-roam-ui ser
 sudo bash build-standalone-server.sh /home/wyli/org/notes/src
 #+END_src
 
-where the build-standalone-server.sh is where the git repo for emacs is stored
+where the build-standalone-server.sh is where the git repo for emacs is stored (around `~/.config/emacs/.local/straight/repos/org-roam-ui/standalone/` for me) (you need docker)
 
 afterwards you can copy the contents directly to `/out` here using
 
