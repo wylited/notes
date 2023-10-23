@@ -1,4 +1,4 @@
-* Meter :physics:
+* Meter :physics:SI:unit:
 :PROPERTIES:
 :ID:       5eee0d1d-0407-481c-a966-b3902c18d60d
 :END:

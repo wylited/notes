@@ -1,4 +1,4 @@
-* Speed of Light :physics:
+* Speed of Light :physics:SI:constant:
 :PROPERTIES:
 :ID:       127a1c11-0d6c-47bc-9c2c-50adff5e11ce
 :END:

@@ -1,4 +1,4 @@
-* Kilogram :physics:
+* Kilogram :physics:SI:unit:
 :PROPERTIES:
 :ID:       674dfa21-f991-43a5-980e-ac1f5d378406
 :END:

@@ -1,4 +1,4 @@
-* Planck Constant :physics:
+* Planck Constant :physics:SI:constant:
 :PROPERTIES:
 :ID:       ef6e930c-23cb-4208-bdd3-3dc1a2144f33
 :END:

@@ -1,4 +1,4 @@
-* Time :physics:
+* Time :physics:SI:quantity:
 :PROPERTIES:
 :ID:       e3c5c6ba-e046-41b6-8fe6-64a89cc0ab3d
 :END:
