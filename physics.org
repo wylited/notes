@@ -5,4 +5,19 @@
 
 A branch of [[id:d71b34eb-8498-42ed-b145-37f3b81061f8][science]] concerning the nature and properties of matter and energy.
 
-Including mechanics, heat, light and other radiation, sound, electricity, magnetism, and the structure of atoms.
+** Branches
+:PROPERTIES:
+:ID:       343646d5-67bb-4f2e-871e-6e71f083a01d
+:END:
+- [[id:4560edf6-221e-441d-83ef-e555f8e20f3f][Classical Physics]]
+- Acoustics
+- Astrophysics
+- Atomic physics
+- Biophysics
+- Electromagnetism
+- Geophysics
+- Mechanics
+- Modern Physics
+- Nuclear Physics
+- Optics
+- Thermodynamics

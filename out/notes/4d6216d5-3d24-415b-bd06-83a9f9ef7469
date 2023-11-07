@@ -12,3 +12,17 @@ A set of units that are used to measure physical quantities in the International
  5) [[id:89897fd8-80ff-4afe-9655-f546380a29f8][Temperature]] in [[id:537b49b3-34ec-4a04-8d83-ad41860c39e4][Kelvins]] defined by [[id:73a22a18-254d-474d-b5db-830e84e1281c][Boltzmann Constant]]
  6) [[id:4cc1c92e-6482-43ac-b925-acba10d97dc4][Substance]] in [[id:c69540fc-65d0-4892-a5d5-c690cc92f815][Moles]] defined by [[id:a8535a9a-d118-4f78-91a3-57833637c34b][Avogadro Constant]]
  7) [[id:4e62c419-1459-4344-93ae-72809a7f4015][Luminosity]] in [[id:835694b3-d5b5-4bbc-80fc-f6d1c1fa4940][Candelas]] defined by [[id:87b1a419-7ba6-49ad-ae71-30126d2e9091][540 THz radiation]]
+* Standard Units :SI:
+:PROPERTIES:
+:ID:       4d6216d5-3d24-415b-bd06-83a9f9ef7469
+:ROAM_ALIASES: "SI Units"
+:END:
+A set of units that are used to measure physical quantities in the International System of Units (SI).
+
+ 1) [[id:e3c5c6ba-e046-41b6-8fe6-64a89cc0ab3d][Time]] in [[id:e6bcf858-c692-4bea-b6b6-2c5924d6b728][Seconds]] defined by [[id:b2841818-9e4f-4ca4-8145-2be78c05d237][Caesium Standard]]
+ 2) [[id:57faa3fa-dfde-45ef-9546-e5e5152a3c6e][Length]] in [[id:5eee0d1d-0407-481c-a966-b3902c18d60d][Meters]] defined by [[id:127a1c11-0d6c-47bc-9c2c-50adff5e11ce][Speed of Light]]
+ 3) [[id:dffc42d0-cc64-4433-831d-625c5c79fa52][Mass]] in [[id:674dfa21-f991-43a5-980e-ac1f5d378406][Kilogram]] defined by [[id:ef6e930c-23cb-4208-bdd3-3dc1a2144f33][Planck Constant]]
+ 4) [[id:b2d878a4-38ff-4947-804f-26907923c9f6][Current]] in [[id:f184bf4b-2012-40e8-873e-f567c923afd5][Amperes]] defined by [[id:fa4a4d27-6cca-4df1-b08a-a8fa18d24235][Elementary Charge]]
+ 5) [[id:89897fd8-80ff-4afe-9655-f546380a29f8][Temperature]] in [[id:537b49b3-34ec-4a04-8d83-ad41860c39e4][Kelvins]] defined by [[id:73a22a18-254d-474d-b5db-830e84e1281c][Boltzmann Constant]]
+ 6) [[id:4cc1c92e-6482-43ac-b925-acba10d97dc4][Substance]] in [[id:c69540fc-65d0-4892-a5d5-c690cc92f815][Moles]] defined by [[id:a8535a9a-d118-4f78-91a3-57833637c34b][Avogadro Constant]]
+ 7) [[id:4e62c419-1459-4344-93ae-72809a7f4015][Luminosity]] in [[id:835694b3-d5b5-4bbc-80fc-f6d1c1fa4940][Candelas]] defined by [[id:87b1a419-7ba6-49ad-ae71-30126d2e9091][540 THz radiation]]

@@ -1,0 +1,7 @@
+* TODO Distance :physics:kinematics:
+:PROPERTIES:
+:ID:       e646ac15-08f6-4657-818a-f46be8078f65
+:END:
+A [[id:98dd425c-9470-4d6c-b966-4180a530026c][scalar quantity]] describing the seperation between two points.
+
+It is not necessarily the shortest path, and does not concern over the direction, unlike [[id:86113031-0043-4b9f-ba97-ef871b8b6f4d][Displacement.]]

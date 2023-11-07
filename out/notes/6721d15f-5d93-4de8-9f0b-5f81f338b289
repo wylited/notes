@@ -48,3 +48,28 @@ Consumer Spending + [[id:19b79927-d3ca-4a99-b162-fd3a7081c797][Income]] + Govern
 - Real GDP, considers inflation and price changes
 - GDP per capita, takes into account of the population changes
 - Green GDP, takes into account for environmental damages
+* Gross Domestic Product :econ:
+:PROPERTIES:
+:ID:       6721d15f-5d93-4de8-9f0b-5f81f338b289
+:END:
+
+$GDP = C+I+G+(X-M)$
+
+Consumer Spending + [[id:19b79927-d3ca-4a99-b162-fd3a7081c797][Income]] + Government Spending + [[id:a200bf07-fbdd-4a84-8e5a-e416acefd153][Current account]] Balance (Exports - Imports)
+
+** Limitations
+:PROPERTIES:
+:ID:       2c0e549d-aeef-4677-bd3c-8ea4bc0b0adb
+:END:
+- [[id:95e7a11d-3bd2-441a-84d2-645816b46533][Inflation]]: price increases can cause growth rates to be misleading
+- Population changes
+- Stastical errors
+- Home produced goods
+- Hidden economy
+- Living standards
+- [[id:eb312953-3209-43e3-976e-2c2b1c239764][Externalities]]
+
+** Other Options
+- Real GDP, considers inflation and price changes
+- GDP per capita, takes into account of the population changes
+- Green GDP, takes into account for environmental damages
