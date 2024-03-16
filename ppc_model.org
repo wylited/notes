@@ -1,0 +1,26 @@
+* TODO PPC Model :econ:
+:PROPERTIES:
+:ID:       cd973b0d-590f-4fd1-a726-1f91f41330f0
+:END:
+The production possibility curve model illustrates the combinations of [[id:75b2b0fb-068b-4f77-9362-e90fca759456][production]] quantities of two different [[id:c01a807f-754c-4a35-a42b-77a67828f82d][goods or services]] an [[id:908979e3-4240-4b4d-ad02-62e08dcc0795][economy]] can produce.
+
+It makes 4 assumptions:
+- There is a fixed amount of resources
+- Only two goods are being produced
+- Technology and production techniques are fixed
+- All resources are used efficiently
+
+PPF stands for Production Possibility Frontier, the actual line of the PPC.
+
+[[file:images/ppc_diagram.png][PPC Diagram]]
+
+A) within the PPC representing inefficient allocation of resources
+B) on the PPF representing efficient allocation of resources, with more being allocated to good Y than X.
+C) outside of the PPC representing an unatainable production point
+D) The same as B, but with more resources allocated to good X than Y.
+
+A outwards shift in the PPF represents [[id:fb5b1a7e-b5e8-4cf6-852c-4aa1462b3205][economic growth]].
+
+[[file:images/ppf_shift.png][PPC Shift]]
+
+The gradient of the PPC also represents [[id:d93b7dbb-b3e7-4ecc-a2c1-17e0cba45cb8][opportunity cost]].

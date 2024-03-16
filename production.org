@@ -2,3 +2,5 @@
 :PROPERTIES:
 :ID:       75b2b0fb-068b-4f77-9362-e90fca759456
 :END:
+The creation of [[id:c01a807f-754c-4a35-a42b-77a67828f82d][goods and services]] to satisfy [[id:756af077-e7cc-47b1-b656-2823facfb950][demand]], akin to [[id:75f15db8-9331-495e-90ef-f3f68e7efd23][supply]]
+Production is limited by its [[id:5fc3eaed-57b1-4eb1-9865-62780cac7e8a][factors]]

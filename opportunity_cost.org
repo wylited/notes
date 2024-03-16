@@ -1,0 +1,7 @@
+* TODO Opportunity Cost :econ:
+:PROPERTIES:
+:ID:       d93b7dbb-b3e7-4ecc-a2c1-17e0cba45cb8
+:END:
+The cost or benefits of an economic decision over the next best alternative.
+
+This can be shown through two points on a [[id:cd973b0d-590f-4fd1-a726-1f91f41330f0][PPC diagram]].
