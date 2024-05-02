@@ -1,0 +1,35 @@
+* TODO Price Elasticity of Demand :econ:
+:PROPERTIES:
+:ID:       ccdc780a-f55c-4e40-bbb3-21a9670ac443
+:ROAM_ALIASES: PED
+:END:
+Responsiveness of the quantity [[id:756af077-e7cc-47b1-b656-2823facfb950][demanded]] to a change in its price of an [[id:c01a807f-754c-4a35-a42b-77a67828f82d][economic good]], [[id:590be4ac-7a1a-43f3-b535-36a4d062987a][determinants]].
+
+$$PED = \frac{\% \Delta Q_d}{\%\Delta P}$$
+
+Calculated PED is always negative, but is discussed as its absolute value.
+
+PED is the percentage change in quantity demand over the percentage change in price, and represents the gradient of a demand curve.
+
+
+| Value | Term              |
+|-------+-------------------|
+| 0     | Fixed             |
+| 0 - 1 | Inelastic         |
+| 1     | Unitary elastic   |
+| > 1   | Elastic           |
+| \infty     | Perfectly elastic |
+
+
+** Applications
+1) PED & Total Revenue
+   - with elastic demand
+     + \downarrow TR = \uparrow P \times \downarrow Q
+     + \uparrow TR = \downarrow P \times \uparrow Q (lucrative option)
+   - with inelastic demand
+     + \uparrow TR = \uparrow P \times \downarrow Q (lucrative option)
+     + \downarrow TR = \downarrow P \times \uparrow Q
+
+Firms should use PED to choose the lucrative option in order to increase total revenue
+
+2) The more inelasitc the PED of the taxed good is, the more revenue the government recieves.

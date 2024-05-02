@@ -1,0 +1,19 @@
+* Income Elasticity of Demand :econ:
+:PROPERTIES:
+:ID:       fe73a213-4713-437f-99a9-3f09e53cedc0
+:ROAM_ALIASES: YED
+:END:
+Responsiveness of quantity [[id:756af077-e7cc-47b1-b656-2823facfb950][demanded]] to a change in [[id:19b79927-d3ca-4a99-b162-fd3a7081c797][income]].
+
+$\frac{ \% \Delta Q_d }{ \% \Delta I}$
+** Applications
+
+1) YED & [[id:c01a807f-754c-4a35-a42b-77a67828f82d][goods]],
+    [[file:images/YED_classifications.png][YED good classification]]
+2) YED & [[id:6c0ff38b-d810-4556-86ae-403ecacef267][economic cycle]]
+   - [[id:fb5b1a7e-b5e8-4cf6-852c-4aa1462b3205][Economic growth]] \rightarrow [[id:19b79927-d3ca-4a99-b162-fd3a7081c797][income]] rises \rightarrow [[id:756af077-e7cc-47b1-b656-2823facfb950][demand]] increase for high YED goods > demand increase for low YED goods.
+   - Recession \rightarrow [[id:19b79927-d3ca-4a99-b162-fd3a7081c797][income]] falls \rightarrow demand decrease for low YED goods < [[id:756af077-e7cc-47b1-b656-2823facfb950][demand]] decrease for high YED goods.
+3) YED & [[id:908979e3-4240-4b4d-ad02-62e08dcc0795][Economic]] [[id:25af0801-9f00-4a49-b090-64c819dbc74f][Sectors]]
+   - High YED for tertiary sector goods
+   - Regular YED for secondary sector goods
+   - Low YED for primary sector goods

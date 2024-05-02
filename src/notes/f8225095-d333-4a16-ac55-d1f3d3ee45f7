@@ -65,3 +65,70 @@ $$ s = vt - \frac{1}{2}at^2 $$
 
 
 ** TODO Uniform Angular Acceleration Eq.
+* TODO Equations of Motion :physics:kinematics:
+:PROPERTIES:
+:ID:       f8225095-d333-4a16-ac55-d1f3d3ee45f7
+:END:
+
+** Uniform [[id:a9074e56-9216-4f34-bb27-fd753325f667][Acceleration]] Eq.
+Used to describe the motion of an object between two points
+
+1. $$ s = \frac{u+v}{2}t $$
+2. $$ v = u + at $$
+3. $$ s = ut + \frac{1}{2}at^2 $$
+4. $$ v^2 = u^2 + 2as $$
+5. $$ s = vt - \frac{1}{2}at^2 $$
+
+$s$: [[id:86113031-0043-4b9f-ba97-ef871b8b6f4d][displacement]]
+
+$u$: initial [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]]
+
+$v$: final [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]]
+
+$a$: [[id:a9074e56-9216-4f34-bb27-fd753325f667][acceleration]]
+
+$t$: [[id:e3c5c6ba-e046-41b6-8fe6-64a89cc0ab3d][time]]
+
+*** $$ s = \frac{u+v}{2}t $$
+Here $\frac{u+v}{2}$ represents the average [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]] which has units $ms^{-1}$.
+
+we multiply it by how long, which is $t$ [[id:e6bcf858-c692-4bea-b6b6-2c5924d6b728][seconds]], to get the [[id:86113031-0043-4b9f-ba97-ef871b8b6f4d][displacement]], which has units $m$.
+
+*** $$ v = u + at $$
+Here $at$ represents the change in [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]], as we are multiplying [[id:a9074e56-9216-4f34-bb27-fd753325f667][acceleration]] against [[id:e3c5c6ba-e046-41b6-8fe6-64a89cc0ab3d][time]].
+
+if we add that to the initial [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]], we have with the final [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]].
+
+*** $$ s = ut + \frac{1}{2}at^2 $$
+This proof assumes calculus knowledge.
+
+By integrating $$ v = u + at $$  the derivative of [[id:e646ac15-08f6-4657-818a-f46be8078f65][distance]] is [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]], so the vice versa applies for the antiderivative.
+
+$$ s = \int (u + at) dt $$
+
+$$ s = ut + \frac{1}{2}at^2 $$
+
+*** $$ v^2 = u^2 + 2as $$
+starting with $$ v = u + at $$ again
+
+$$ v^2 = (u + at)^2$$
+
+$$ v^2 = u^2 + 2uat + a^2t^2 $$
+
+$$ v^2 = u^2 + 2a(ut + \frac{1}{2}at^2) $$,  /(using $$ s = ut + \frac{1}{2}at^2 $$)/
+
+$$ v^2 = u^2 + 2as $$
+
+*** $$ s = vt - \frac{1}{2}at^2 $$
+This proof assumes calculus knowledge (similar to 3rd eq).
+
+quickly rearrange $$ v = u + at $$ to get $$ u = v - at $$
+
+then integrate it again.
+
+$$ s = \int (v - at) dt $$
+
+$$ s = vt - \frac{1}{2}at^2 $$
+
+
+** TODO Uniform Angular Acceleration Eq.

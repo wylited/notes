@@ -1,0 +1,17 @@
+* TODO Cross Price Elasticity of Demand :econ:
+:PROPERTIES:
+:ID:       a1f34ce6-fd68-4028-98e3-12ecd8cfe558
+:ROAM_ALIASES: XED
+:END:
+An extension of [[id:ccdc780a-f55c-4e40-bbb3-21a9670ac443][PED]] that measures the responsiveness of the [[id:756af077-e7cc-47b1-b656-2823facfb950][demand]] of a good to the change of price of different good.
+
+$\frac{\% \Delta Q_x}{\% \Delta P_Y}$
+
+- Substitue goods = positive XED
+- Complementary goods = Negative XED
+
+** Applications
+1) Similar goods
+2) Rival firms
+3) Mergers between firms
+4) Complementary goods.

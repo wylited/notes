@@ -4,3 +4,9 @@
 :END:
 A physical quantity with only magnitude. Alot of SI units tend to be scalar quantities.
 Examples: [[id:dffc42d0-cc64-4433-831d-625c5c79fa52][mass]], [[id:57faa3fa-dfde-45ef-9546-e5e5152a3c6e][length]], [[id:e3c5c6ba-e046-41b6-8fe6-64a89cc0ab3d][time]], [[id:89897fd8-80ff-4afe-9655-f546380a29f8][temperature]], energy, and speed.
+* TODO Scalar Quantity
+:PROPERTIES:
+:ID:       98dd425c-9470-4d6c-b966-4180a530026c
+:END:
+A physical quantity with only magnitude. Alot of SI units tend to be scalar quantities.
+Examples: [[id:dffc42d0-cc64-4433-831d-625c5c79fa52][mass]], [[id:57faa3fa-dfde-45ef-9546-e5e5152a3c6e][length]], [[id:e3c5c6ba-e046-41b6-8fe6-64a89cc0ab3d][time]], [[id:89897fd8-80ff-4afe-9655-f546380a29f8][temperature]], energy, and speed.

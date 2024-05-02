@@ -2,3 +2,14 @@
 :PROPERTIES:
 :ID:       756af077-e7cc-47b1-b656-2823facfb950
 :END:
+* Demand :econ:
+:PROPERTIES:
+:ID:       756af077-e7cc-47b1-b656-2823facfb950
+:END:
+The quantity of [[roam:economic goods or services]] that would be consumed at a certain price.
+Limited by its non-price [[id:1be239b3-7f56-4a16-929f-8dbc8df9bbf2][factors]], which shift the curve.
+
+Is represented with a curve, where it is inversely proportional to price.
+[[file:images/demand.png]]
+
+The gradient of the curve represents the [[id:ccdc780a-f55c-4e40-bbb3-21a9670ac443][price elasticity of demand]]

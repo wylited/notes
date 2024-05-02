@@ -1,5 +1,14 @@
-* TODO Supply :econ:
+* Supply :econ:
 :PROPERTIES:
 :ID:       75f15db8-9331-495e-90ef-f3f68e7efd23
 :END:
-the quantity of [[id:c01a807f-754c-4a35-a42b-77a67828f82d][goods and services]] that producers are willing and able to offer for sale at various prices in a given [[id:4d4a89e0-4bda-4d38-ad2c-7f590e8d7ca3][market]] and time period.
+The quantity of [[id:c01a807f-754c-4a35-a42b-77a67828f82d][goods]] that producers are willing and able to offer for sale at a certain price in a given [[id:4d4a89e0-4bda-4d38-ad2c-7f590e8d7ca3][market]] and time period.
+
+Limited by non-price [[id:d5aec825-007e-4218-9818-3bd948d6e116][factors]], which shift the curve.
+
+Supply \propto Price.
+
+Can be represented with a curve.
+[[file:images/supply.png]]
+
+The gradient of the curve represents the [[id:a7338fe2-56f5-4163-b660-7cba5e7ac5c1][price elasticity of supply]].

@@ -4,8 +4,3 @@
 :END:
 
 When quantity [[id:75f15db8-9331-495e-90ef-f3f68e7efd23][supplied]] exceeds quantity [[id:756af077-e7cc-47b1-b656-2823facfb950][demanded]].
-
-** TODO DIAGRAM
-:PROPERTIES:
-:ID:       759c03bf-ce12-47d4-934d-7ff6760aee72
-:END:
