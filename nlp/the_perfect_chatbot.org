@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       171284d7-c1b8-48a3-8bec-8443a131e280
+:END:
+#+title: The Perfect Chatbot
+
+* The Perfect Chatbot :nlp:cs:ib:
+RAKT, as an insurance company is struggling with their chatbot. Investigate six key areas:
+1. Latency
+ f
