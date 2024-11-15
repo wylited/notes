@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       e3035fbf-331c-42f6-95d2-5b4c2b525ec7
+:END:
+#+title: Vector Quantity
+*  TODO Vector Quantity
+A vector quantity is a physical quantity that has both magnitude and direction.
+
+Examples: displacement, velocity, acceleration, force, momentum, and electric field

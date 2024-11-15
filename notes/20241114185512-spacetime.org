@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a785ce42-f183-4e90-9b96-bee2eb4ac5bb
+:ROAM_ALIASES: Spacetime-continuum
+:END:
+#+title: Spacetime
+* Spacetime
+Four-dimensional continuum combining space and time, introduced by Minkowski. Events are points in spacetime.
+
+$$ (x, y, z, t) $$
+
+Spacetime allows for [[id:dffc42d0-cc64-4433-831d-625c5c79fa52][mass]] and [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]] (momentum) to curve it, as presented in the Minikowski space we live in.

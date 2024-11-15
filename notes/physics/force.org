@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       afae86d7-adba-4683-a91f-5ce11d834da7
+:END:
+#+filetags: :physics:kinematics:
+#+title:Force
+* Force
+
+[[id:e3035fbf-331c-42f6-95d2-5b4c2b525ec7][Vector Quantity]] that influences a change in [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]] or [[id:a9074e56-9216-4f34-bb27-fd753325f667][accelerates]] an object.
+
+Represented in [[id:a3db260e-100f-41ab-a418-549b2070a5fc][newtons (N)]] and has a symbol of $F$.
+
+** Contact Forces
+- Normal Force $F_n$
+- Surface Frictional Force $F_f$
+- Tension
+- Spring Force $F_H$
+- Viscous Drag Force $F_d$
+- Bouyancy Force $F_b$
+- Centripetal Force $F_c$
+
+** Field Forces
+- Gravitational Force $F_g$
+- Electric Force $F_e$
+- Magnetic Force $F_m$

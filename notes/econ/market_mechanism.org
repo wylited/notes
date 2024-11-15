@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b90ffbd8-22ad-4dde-a60b-2ba37228173d
+:ROAM_ALIASES: "Price mechanism"
+:END:
+#+title: Market Mechanism
+#+filetags: :econ:
+* Market Mechanism
+Interactions between [[id:75f15db8-9331-495e-90ef-f3f68e7efd23][supply]] and [[id:756af077-e7cc-47b1-b656-2823facfb950][demand]] in a [[id:4d4a89e0-4bda-4d38-ad2c-7f590e8d7ca3][market]].
+
+When quantity supplied exceeds quantity demanded: (excess)
+- Price falls until $Q_s = Q_d$.
+When quantity demanded exceeds quantity supplied: (shortage)
+- Price rises until $Q_d = Q_S$.
+
+  There are also [[id:f83be05a-5464-4ab2-8ba4-18bf0a728f11][signalling]] and [[id:f2815c2f-3ff6-4f9b-bdc0-1288b757052d][incentive]] functions.

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       f03c3c67-fd4d-4c12-af88-0e0474f983da
+:END:
+#+title: Relativistic Mechanics
+
+* Relativisitc Mechanics
+A framework that describes motion of objects at high speeds, (a signficant fraction of the speed of light), where [[id:b8bc6c39-75cc-4a88-9229-63243ccfa00c][classical mechanics]], specifically, [[id:53b3e3d1-54b5-4aea-b83d-878d076e5c27][gallilean relativity]] fails.
+
+These mechanics are compatible with [[id:4d1e8fe1-4308-4a5b-86e4-3720dc878868][Special Relativity]] and General Relativity

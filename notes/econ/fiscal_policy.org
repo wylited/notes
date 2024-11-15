@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       884c819f-46cc-4489-bd2d-84fcfab6e4e3
+:END:
+#+title: Fiscal Policy
+#+filetags: :econ:
+* Fiscal Policy :econ:
+
+manipulation of [[id:3f6b7bc9-c7f3-449f-bbb5-bdcd2eda845b][taxation]] and government spending to influence [[id:68a7286c-071f-456a-b8f9-6e6ce67b6be4][aggregate demand]].
+By lowering taxes, individuals are incentivized to spend more (lower prices).
+
+Expansionary $\rightarrow$ $\uparrow$ gov spending, $\downarrow$ taxes $\rightarrow$ $\uparrow$ aggregate demand.
+- Stimulates [[id:fb5b1a7e-b5e8-4cf6-852c-4aa1462b3205][economic growth]]
+- Lowers [[id:7b006f3a-42d5-4ce5-b374-2ac0f7885bea][Unemployment]]
+Contractionary, vice versa.
+- Combats [[id:95e7a11d-3bd2-441a-84d2-645816b46533][inflation]]
+  - Reduction in disposable income $\rightarrow$ reduces demand $\rightarrow$ relieve [[id:ff42e5c7-67c2-4922-ae01-8ec1f28adb86][demand pull inflationary]] pressures
+- Lowers [[id:a200bf07-fbdd-4a84-8e5a-e416acefd153][current account]] deficit
+- protects the [[id:11d164da-fee4-45f6-bd50-8d3546a441f4][environment]]

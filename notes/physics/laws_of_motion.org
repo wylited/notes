@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       25c18b76-44de-4d7b-8c7f-54a2c6d99818
+:END:
+#+filetags: :physics:kinematics:law:
+#+title: Laws of Motions
+
+* TODO Laws of Motions
+The 3 basic laws of motion that describe the relationship between the motion of objects and the forces acting on it.
+
+** First
+A body remains at rest, or in motion at a constant speed in a straight line, unless acted upon by a force.

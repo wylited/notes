@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       813d3eab-f3bb-4411-b10f-557c9a936413
+:END:
+#+title: Word Sense Disambiguation
+This process determines which meaning of a word is used in a given context, resolving ambiguities.

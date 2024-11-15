@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2747067b-de94-41c7-bf46-0149758ee838
+:END:
+#+filetags: :physics:kinematics:
+#+title: Kinematics
+* Kinematics
+A subfield of [[id:d12686a4-ae40-4a9c-b680-f1225d53b19a][physics]], that studies the motion of objects without considering the forces that cause the motion.
+
+It focuses on describing [[id:764a93ce-2166-44d0-989b-11e980137c73][position]], [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]] and its [[id:34d5f0fe-b4e0-4989-acd9-ab050688f390][derivatives]] of an object.

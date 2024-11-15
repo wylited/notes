@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       08049132-432d-4d3e-b081-dbd624585ad7
+:END:
+#+filetags: :econ:
+#+title: Frictional Unemployment
+* TODO Frictional Unemployment
+Short term [[id:7b006f3a-42d5-4ce5-b374-2ac0f7885bea][unemployment]], caused by low job mobility.

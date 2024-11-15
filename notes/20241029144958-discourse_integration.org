@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       ee6f2cc4-1b74-4181-b5ad-3b137751311c
+:END:
+#+title: Discourse Integration
+Discourse Integration involves understanding the context within larger text spans by expanding [[id:7da0c5ce-ca35-4f9a-932d-c470475f77d1][anaphora resolution]]. It ensures coherence and consistency across sentences.

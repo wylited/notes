@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       30d77e17-0dbf-4935-b524-29831b4f7d6b
+:END:
+#+title: Galilean Transformations
+
+* Galilean Transformations
+The mathematical expressions that relate measurements between different inertial [[id:4fe49e8e-9236-47bd-ba48-4ed125145d3e][frames]] in [[id:b8bc6c39-75cc-4a88-9229-63243ccfa00c][classical mechanics]]:
+
+- Space transformations
+  $$ x' = x - vt $$
+  $$ y' = y $$
+  $$ z' = z $$
+
+- Time transformations
+  $$ t' = t $$
+
+- Velocity transformations
+  $$ u' = u - v$$
+
+Where:
+- $(x', y', z', t')$ are the coordinates of the observed frame
+- $(x, y, z, t)$ are the coordinates of the observer frame
+- $v$ is the relative velocity between the frames
+- $u$ is the velocity of the observer frame
+- $u'$ is the velocity of the observed frame
+
+These transformations assume:
+1. Absolute time (time is the same for all observers)
+2. Absolute space (spatial measurements are the same for all observers)
+
+Limitations: Only valid at speeds much lower than light speed (v << c), at higher speeds [[id:ca3ab0b5-948d-4cb7-8642-23c35e4adbea][lorentz transformations]] are accurate.

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       c2af6862-c1ab-4476-a551-1996edb4c61f
+:END:
+#+title: Lexical Analysis
+The breaking down of text into tokens or words, [[id:a5904b77-eee6-4a1d-adc4-6ca00c65677a][tokenization]], to identifies parts of speech and [[id:b4daec61-c9c7-4df8-9443-de01af5f3bd4][morphological]] structures.

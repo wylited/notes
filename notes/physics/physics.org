@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d12686a4-ae40-4a9c-b680-f1225d53b19a
+:END:
+#+title: Physics
+#+filetags: :physics:
+* Physics
+
+A branch of [[id:d71b34eb-8498-42ed-b145-37f3b81061f8][science]] concerning the nature and properties of matter and energy.
+update
+
+** Branches
+:PROPERTIES:
+:ID:       343646d5-67bb-4f2e-871e-6e71f083a01d
+:ROAM_ALIASES: "Branches of physics"
+:END:
+- [[id:b8bc6c39-75cc-4a88-9229-63243ccfa00c][Classical Mechanics]]
+- Thermodynamics and statistical mechanics
+- Electromagnetism and photonics
+- Relativistic Mechanics
+- Quantum mechanics, atomic physics, and molecular physics
+- Optics and acoustics

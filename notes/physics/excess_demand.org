@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f1f12141-9c8e-4c5f-8a52-438dd0db72c0
+:END:
+#+title: Excess Demand
+#+filetags: :econ:demand:
+* Excess Demand
+
+When quantity [[id:756af077-e7cc-47b1-b656-2823facfb950][demanded]] is greater than quantity [[id:75f15db8-9331-495e-90ef-f3f68e7efd23][supplied]].

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       5a905fee-9390-474b-873a-cc506fcc04de
+:END:
+#+title: Pragmatic Analysis
+Pragmatic Analysis interprets language based on situational context, considering factors like speaker intent and social nuances.

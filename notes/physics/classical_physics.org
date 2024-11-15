@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4560edf6-221e-441d-83ef-e555f8e20f3f
+:END:
+#+title: Classical Physics
+#+filetags: :physics:kinematics:
+* TODO Classical Physics
+
+A group of [[id:d12686a4-ae40-4a9c-b680-f1225d53b19a][physics]] theories that are based on based on an older paradigm and tend to be incomplete or limited.
+
+** Overview
+- [[id:b8bc6c39-75cc-4a88-9229-63243ccfa00c][Classical Mechanics]]
+- Classical Electrodyanmics
+- Classical Thermodynamics
+- Classical Chaos Theory
+- Nonlinear Dynamics

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       18f4b828-0c98-4147-9d28-989b4b4db08d
+:ROAM_ALIASES: "Newtons Second Law of Motion" N2 NII f=ma
+:END:
+#+filetags: :physics:kinematics:law:
+#+title: Second Law of Motion
+* Second Law of Motion :physics:kinematics:law:
+
+When a body is acted upon by a net force, the body's acceleration multiplied by its mass is equal to the net force.
+
+$$ F_{net} = m \cdot a $$

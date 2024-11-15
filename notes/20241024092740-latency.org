@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2eeb6055-d7e7-42e3-b079-8d3b09125bc3
+:END:
+#+title: Latency
+
+The delay before a response or an output is recieved after an input.

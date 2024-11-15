@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       53b3e3d1-54b5-4aea-b83d-878d076e5c27
+:ROAM_ALIASES: "Classical Relativity" "Galilean Invariance"
+:END:
+#+title: Galilean Relativity
+* Galilean Relativity
+Galilean relativity states that the [[id:25c18b76-44de-4d7b-8c7f-54a2c6d99818][laws of motion]] are the same in all inertial [[id:4fe49e8e-9236-47bd-ba48-4ed125145d3e][frames of reference]].
+
+We can describe relative motion with [[id:764a93ce-2166-44d0-989b-11e980137c73][position]] and [[id:e3c5c6ba-e046-41b6-8fe6-64a89cc0ab3d][time]] with two reference frames $S$ and $S'$. Since time is absolute.
+
+$$ t = t' $$
+
+There will be some [[id:e646ac15-08f6-4657-818a-f46be8078f65][distance]] $vt$ displacing the second observer at $x'$
+
+$$  x' = x - vt $$
+
+These are some of the Galilean Transformationsi
+
+The [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]] can be determined by taking the [[id:34d5f0fe-b4e0-4989-acd9-ab050688f390][derivative of position]].
+
+$$ \frac{d}{dt}x' = \frac{d}{dt}(x-vt) = \frac{d}{dt}x - v $$
+
+This is the velocity addition equation, stating that the velocity of a inertial reference frame can be found by taking the velocity of an observer inertial reference frame and adding the observed velocity of the first inertial reference frame.
+
+However, this contradicts the principle of [[id:3daa230b-a4d0-40d3-98ba-f6d495cfd3a0][light speed invariance]], and thus the framework is only useful at low speeds.

@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       ca3ab0b5-948d-4cb7-8642-23c35e4adbea
+:ROAM_ALIASES: "Relativistic Transformations"
+:END:
+#+title: Lorentz Transformations
+
+* Lorentz Transformations
+The mathematical expressions that relate measurements between different inertial [[id:4fe49e8e-9236-47bd-ba48-4ed125145d3e][frames]] in [[id:f03c3c67-fd4d-4c12-af88-0e0474f983da][relativistic mechanics]]
+
+Space Transformations:
+- $ x' = \gamma (x - vt) $
+- $ y' = y $
+- $ z' = z $
+
+Time Transformation:
+- $$ t' = \gamma(t - \frac{vx}{c^2}) $$
+
+
+Velocity Transformations:
+- $$ u'_x = \frac{u_x - v}{\gamma(1 - \frac{u_x v}{c^2})} $$
+- $$ u'_{\gamma} = \frac{u_{\gamma}}{\gamma(1 - \frac{u_x v}{c^2})} $$
+- $$ u'_u = \frac{u_u}{\gamma(1 - \frac{u_x v}{c^2})} $$
+
+Where:
+- $(x', y', z', t')$ are coordinates in observed frame
+- $(x, y, z, t)$ are coordinates in observer frame
+- $v$ is relative velocity between frames
+- $c$ is speed of light
+- $\gamma = \frac{1}{\sqrt{1-\frac{v^2}{c^2}}}$ is the Lorentz factor
+- $u$ is velocity of object in stationary frame
+- $u'$ is velocity of object in moving frame
+
+These transformations:
+1. Preserve [[id:127a1c11-0d6c-47bc-9c2c-50adff5e11ce][speed of light]] ($c$ is same in all frames)
+2. Merge space and time into [[id:a785ce42-f183-4e90-9b96-bee2eb4ac5bb][spacetime]]
+3. Replace [[id:30d77e17-0dbf-4935-b524-29831b4f7d6b][Galilean transformations]] at high speeds

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       3cc4eb77-5ece-410c-a259-b78672a96ba2
+:END:
+#+title: Parse Tree
+A Diagramatically representation of the parsed structure of a sentence.
+
+[[./20241024100326-parse_tree.png]]

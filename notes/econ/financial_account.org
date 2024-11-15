@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       bce8032f-89e7-4d46-8d91-50123785d361
+:END:
+#+filetags: :econ:
+#+title: Financial Account
+* TODO Financial Account
+provide data on an economy's overall savings, investment, credit flows and financial stability.

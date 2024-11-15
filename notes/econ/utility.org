@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       feaf6a8c-9f23-42a2-8278-55a8e7433251
+:END:
+#+title: Utility
+#+filetags: :econ:
+* Utility
+
+The satisfaction derived from consuming [[id:c01a807f-754c-4a35-a42b-77a67828f82d][goods and services]].

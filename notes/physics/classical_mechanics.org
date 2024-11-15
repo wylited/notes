@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b8bc6c39-75cc-4a88-9229-63243ccfa00c
+:END:
+#+filetags: :science:physics:
+#+title: Classical Mechanics
+* TODO Classical Mechanics
+
+A theory in [[id:d12686a4-ae40-4a9c-b680-f1225d53b19a][physics]] that describes the motion of macroscopic objects and the forces that cause the motion.
+
+It assumes matter and energy have definite, knowable attributes such as location in space and speed and that forces act instantaneously. However, it breaks down at velocities close to the speed of light.
+
+The [[id:d7cbd31f-0b0b-4969-9311-b5a4e0b3467e][first]], [[id:18f4b828-0c98-4147-9d28-989b4b4db08d][second]] and third laws describe the relationship between motion of objects and the forces applied on them.
+
+** TODO Branches
+- Applied
+- Celestial
+- Continuum
+- Dynamics
+- [[id:2747067b-de94-41c7-bf46-0149758ee838][Kinematics]]
+- Kinetics
+- Statics
+- Statisical Mechanics

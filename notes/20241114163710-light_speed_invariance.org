@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       3daa230b-a4d0-40d3-98ba-f6d495cfd3a0
+:END:
+#+title: Light Speed Invariance
+The speed of light ($c$) is constant in all [[id:4fe49e8e-9236-47bd-ba48-4ed125145d3e][reference frames]], contradicting [[id:53b3e3d1-54b5-4aea-b83d-878d076e5c27][Galilean relativity]].

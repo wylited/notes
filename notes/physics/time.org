@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       e3c5c6ba-e046-41b6-8fe6-64a89cc0ab3d
+:END:
+#+filetags: :physics:SI:quantity:
+#+title: Time
+* Time
+Time (symbol: $t$) is a [[id:4d6216d5-3d24-415b-bd06-83a9f9ef7469][standard unit]] or dimension.
+
+The base quantity is a [[id:e6bcf858-c692-4bea-b6b6-2c5924d6b728][second]].

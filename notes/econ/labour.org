@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       2d936ca5-688e-42f7-b4a8-d9ad1e96b555
+:END:
+#+filetags: :econ:
+#+title: Labour
+* TODO Labour

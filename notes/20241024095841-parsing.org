@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       64c59336-4bd2-4bb8-b04e-44bc5e03ed1f
+:END:
+#+title: Parsing
+
+Analyzing a string or text into its logical syntatic components

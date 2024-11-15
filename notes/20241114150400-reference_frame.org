@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4fe49e8e-9236-47bd-ba48-4ed125145d3e
+:END:
+#+title: Reference Frame
+
+* Reference Frame
+A reference frame or frame of reference is an abstract set of coordinates where at each coordinate the [[id:e3c5c6ba-e046-41b6-8fe6-64a89cc0ab3d][time]] is the same for all observers.
+With respect to a reference frame, one can observe the motion of another object.
+
+If the frame is not accelerating, the frame is referred to as a inertial reference frame.

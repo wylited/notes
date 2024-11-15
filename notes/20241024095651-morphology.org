@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       b4daec61-c9c7-4df8-9443-de01af5f3bd4
+:END:
+#+title: Morphology
+Morphology studies the internal structure of words of [[id:69af889d-7439-4fc7-bd6e-7189470323a9][natural language]], including roots, prefixes, and suffixes.

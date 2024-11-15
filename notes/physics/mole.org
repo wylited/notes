@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c69540fc-65d0-4892-a5d5-c690cc92f815
+:END:
+#+title:Mole
+#+filetags: :physics:SI:unit:
+* Mole
+A Mole (symbol: $mol$) is the base unit of [[id:4cc1c92e-6482-43ac-b925-acba10d97dc4][substance]] in the [[id:4d6216d5-3d24-415b-bd06-83a9f9ef7469][SI Units]].
+It is defined by the [[id:a8535a9a-d118-4f78-91a3-57833637c34b][avogadro constant]]

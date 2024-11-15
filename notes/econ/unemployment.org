@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       7b006f3a-42d5-4ce5-b374-2ac0f7885bea
+:END:
+#+title: Unemployment
+#+filetags: :econ:
+* TODO Unemployment
+- Available to start a job within 2 weeks
+AND
+- Actively sought a job in the past month
+OR
+- Have already found a job that starts in the next three months
+
+** Types
+- [[id:6227d8fa-5e2c-4c42-b56a-70e1d1ef0eae][Cyclical unemployment]]
+- [[id:35afab90-21fc-49e0-80fb-78ab28c4337b][Structural unemployment]]
+- [[id:205a7be9-819f-4a26-bd4b-b748c380a2a8][Seasonal Unemployment]]
+- [[id:d7fedf1d-bc4b-4e26-ab34-85395702d970][Voluntary Unemployment]]
+- [[id:08049132-432d-4d3e-b081-dbd624585ad7][Frictional Unemployment]]
+
+** Impacts
++ Lower [[id:440b050d-8c19-4687-bdda-a94e8743f1b2][economic activity]]
++ Unproductive usage of resources
++ Poverty
++ Increased government spending
++ Lower consumer confidence
++ Lower business confidence
++ Lower standards of living

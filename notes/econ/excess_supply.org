@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       eacee7d4-ed43-480f-a99e-aeabf9dafadf
+:END:
+#+filetags: :econ:supply:
+#+title: Excess Supply
+* Excess Supply
+
+When quantity [[id:75f15db8-9331-495e-90ef-f3f68e7efd23][supplied]] exceeds quantity [[id:756af077-e7cc-47b1-b656-2823facfb950][demanded]].

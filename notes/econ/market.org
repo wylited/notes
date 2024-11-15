@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4d4a89e0-4bda-4d38-ad2c-7f590e8d7ca3
+:END:
+#+filetags: :econ:
+#+title:Market
+* TODO Market
+A market is an economic system aims to solve the problem of [[id:4acae25f-b851-4380-8f79-ca65ba6eaa5f][scarcity]]  through the market mechanism.
+
+[[file:images/marketeq.png]]
+
+The equilibrium is where quantity supplied is equal to the quantity demanded.

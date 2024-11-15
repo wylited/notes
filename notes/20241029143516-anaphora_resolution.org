@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7da0c5ce-ca35-4f9a-932d-c470475f77d1
+:END:
+#+title: Anaphora Resolution
+Anaphora Resolution identifies what pronouns and other referring expressions point to within text.

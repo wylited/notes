@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       4d1e8fe1-4308-4a5b-86e4-3720dc878868
+:END:
+#+title: Special Relativity
+
+* Special Relativity
+Or the theory of special relativity rests on two key postulates:
+1. Physics laws are identical in all inertial reference frames
+2. Light speed in vacuum is constant for all observers
+
+This theory resolves contradictions between electromagnetism and [[id:53b3e3d1-54b5-4aea-b83d-878d076e5c27][Galilean Relativity]].
+
+Transformations under special relativity follow [[id:ca3ab0b5-948d-4cb7-8642-23c35e4adbea][Lorentz Transformations]].

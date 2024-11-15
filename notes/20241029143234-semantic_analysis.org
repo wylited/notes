@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       32e28d51-9b9e-45ff-b59c-92b300cd4678
+:END:
+#+title: Semantic Analysis
+Semantic Analysis focuses on the meaning of words and sentences. It resolves [[id:813d3eab-f3bb-4411-b10f-557c9a936413][ambiguities]] and interprets context through processes like [[id:7da0c5ce-ca35-4f9a-932d-c470475f77d1][anaphora resolution]].

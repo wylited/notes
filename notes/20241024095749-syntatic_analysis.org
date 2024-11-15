@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       6bb247e8-9b75-42b0-b2ad-448a042cd21f
+:END:
+#+title: Syntatic Analysis
+
+Syntactic Analysis, or [[id:64c59336-4bd2-4bb8-b04e-44bc5e03ed1f][parsing]], examines the grammatical structure of sentences. It involves creating [[id:3cc4eb77-5ece-410c-a259-b78672a96ba2][parse trees]].

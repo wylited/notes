@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       69af889d-7439-4fc7-bd6e-7189470323a9
+:END:
+#+title: Natural Language
+In neuropsychology, linguistics, and philosophy of language, any language that occurs naturally in a human community without premediation or concious planning is considered natural language.

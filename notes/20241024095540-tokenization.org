@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a5904b77-eee6-4a1d-adc4-6ca00c65677a
+:END:
+#+title: Tokenization
+Tokenization is the process of dividing a text corpus into individual tokens or words, essential for further [[id:59ca94ac-73cf-48e5-aaba-876282e233d2][analysis]].

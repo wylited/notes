@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       73a22a18-254d-474d-b5db-830e84e1281c
+:END:
+#+filetags: :physics:SI:constant:
+#+title: Boltzmann Constant
+* TODO Boltzmann Constant
+The Boltzmann constant $k_b$ or $k$ relates the thermal energy of particles in a gas to the [[id:89897fd8-80ff-4afe-9655-f546380a29f8][temperature]] of the gas.
+
+$k_b = 1.380649 \times 10^{-23} J \dot K^{-1}$

@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       41637a9c-2e3c-414c-9887-db58af949e59
+:END:
+#+title: Marginal utility
+* Marginal utility
+
+The added satisfaction a consumer gets from having one more unit of a good or service.
+
+Marginal [[id:feaf6a8c-9f23-42a2-8278-55a8e7433251][utility]]  = \Delta Total Utility / \Delta Quantity Consumed

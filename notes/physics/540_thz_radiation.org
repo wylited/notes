@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       87b1a419-7ba6-49ad-ae71-30126d2e9091
+:END:
+#+filetags: physics SI constant
+#+title: 540 THz Radiation
+* TODO 540 THz radiation
+
+??? This needs to be more clear, suggestions appreciated
+Has a luminous efficacy of $683 lm \dot W^{-1}$
