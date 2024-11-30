@@ -1,0 +1,147 @@
+#+title: exams
+
+* Social Organization Assessment <2023-12-08 Fri> :fa:
+
+Students will do a mock practice oral exam
+
+** KILL [#E] Get exact date for french assessment
+
+* Identities Assessment <2023-12-12 Tue> :fa:
+
+?
+
+* Topic 6 — Resource Management and Control [0%]<2024-02-21 Wed> :cs:
+:PROPERTIES:
+:Effort:   48m
+:END:
+
+Students sit a 48 min theory examination with questions drawn from Topic 6 Resource Management and Unit 7 Control.
+
+- [ ] Topic 6
+- [ ] Unit 7
+
+* Market Failure <2024-03-04 Mon> :ec:
+
+Students will be assessed on their understanding of positive and negative externalities of both production and consumption and will be assessed on this understanding as well as their ability to evaluate the effectiveness of measures to reduce market failure
+
+* Unit 2 Test <2024-03-05 Tue> :aa:
+:PROPERTIES:
+:Effort:   55m
+:END:
+
+A 55 minute in class written test. This summative test will predominantly focus on assessing understanding and the ability to apply the concepts learnt in this unit but will also assess concepts from earlier units given the cumulative nature in which mathematics should be learnt.
+
+* Topic D - OOP <2024-03-18 Mon> :cs:
+
+Students sit a whole Paper 2 theory examination with questions drawn from Topic D OOP. This will be split across two lessons.
+
+* Market Power <2024-03-18 Mon> :ec:
+
+Market failure—market power (HL only).
+
+There are different types of market structures, each of which is essentially characterised by the degree of competition between firms in each firm. Where many firms are competing against each other to sell their goods or services, markets tend to work well for consumers. Where one or two firms dominate a market they have more control over the price they can charge consumers, tend to price high and enjoy bumper profits – the market fails. The Market Power section of the IB Economics course is part of the Market Failure course material.
+
+* Computer organisation <2024-03-22 Fri> :cs:
+
+Students sit a 55min theory examination with questions drawn from Topic 2 including CPU architecture, machine instruction cycle, etc.
+
+* TOK Exhibition Internal Assessment <2024-05-13 Mon> :tok:
+
+Students will identify a real life situation and study this through a Theory of Knowledge lens. Using the knowledge framework, students will present on a pertinent knowledge questions, identifying a range of knowledge claims and analysing them throughout the presentation
+
+* Human Ingenuity Assessment <2024-05-15 Wed> :fa:
+
+?
+
+* Physics IA <2024-05-25 Sat> :ph:
+
+A summative mark for the physics internal assessments
+
+* End of Year Assessments <2024-05-30 Thu> :cs:
+:PROPERTIES:
+:Effort:   55m
+:END:
+
+Students sit a 55min theory examination with questions drawn from all topics studied to date
+
+* Macroeconomics Paper 1 (Part b) <2024-06-03 Mon> :ec:
+
+Students will be asked to write an answer to an AO3 Macroeconomics paper 1 (Part b)
+
+* Unit 3 Test <2024-06-05 Wed> :aa:
+:PROPERTIES:
+:Effort:   45m
+:END:
+
+Two papers, each 45 minutes written in the hall.
+This summative test will predominantly focus on assessing understanding and the ability to apply the concepts learnt in this unit but will also assess concepts from earlier units
+
+* Year 12 Assessment Week - Policy Paper 3 Question <2024-06-10 Mon> :ec:
+
+Students will be asked to write an answer to 2 "Recommend a policy questions ...."  The question will be drawn from the micro and macro content taught to date.
+
+* Year 12 Synoptic Assessment <2024-06-14 Fri> :fa:
+
+This assessment encompasses all four skills (Listening, Speaking, Reading and Writing)
+
+* Individual Oral <2024-06-14 Fri> :en:
+
+Students select two texts that they have studied anywhere in the first year of the course and examine them in the context of a global issue present in both.
+
+The individual oral creates an opportunity for the learning and teaching on this course to be contextualized, encouraging students to make meaningful connections between the texts they are studying and the world around them. It offers the chance for teachers and students to establish explicit and systematic connections between the works and/or texts they study and the pedagogical principle of IB learning that proposes that teaching and learning should be developed in close connection with global and local contexts.
+
+* Physics Year End Assessment <2024-06-16 Sun> :ph:
+
+IB style questions, multiple choice and extended response, drawing from all of the material studied to date in the course. The grade may also include grades drawn from classwork and homework assignments. This will take place in term 3
+
+* DONE Comp Sci formative <2023-10-17 Tue> :cs:
+Option D singular java programming task
+
+* DONE Markets - Elasticity <2023-10-17 Tue> :ec:
+
+Throughout assessments in Year 12 students will consider how markets work, looking at how supply and demand interact to allocate resources in local, national and international markets.
+
+They will learn how to apply supply and demand analysis to real-world situations and be able to offer explanations of consumer behaviour. This will involve looking at both how consumers act in a rational way to maximise utility and how firms maximise profit, but also why consumers may not behave rationally. The principles of this behaviour has been explored in the Foundations of Economics Unit 1.
+
+* KILL Higher Level Abstract Data Structures Assessment [100%]<2023-10-23 Mon> :cs:
+
+A paper based test simulating paper 1 Abstract Data Structures questions.
+
+** DONE [#E] Get exact date for comp sci hl assessment
+- [ ] Understand all abstract data structures
+- [ ] Memorize syntax
+
+* DONE Programming Paper 2 Java assessment [100%]<2023-10-27 Fri> :cs:
+
+Practical assessment.  Students will create a solution using Java / Pseudocode
+
+- [X] Memorize java syntar
+- [X] Memorize psuedocode syntax
+
+* DONE Unit 1 Test [100%]<2023-11-14 Tue> :aa:
+:PROPERTIES:
+:Effort:   55m
+:END:
+
+A 55 minute in class written test. This summative test will assess understanding and the ability to apply the concepts learnt in this unit.
+
+- [X] Functions and Graphs
+- [X] Exponential and Logarithmic Functions
+
+* DONE Physics Units A Assessment term 1 [100%]<2023-11-17 Fri> :ph:
+
+IB style questions, multiple choice and extended response, drawing from all of the material studied to date in the course. The grade may also include grades drawn from classwork and homework assignments.
+
+- [X] Topic 1
+- [X] Topic 2
+- [X] Topic 3
+
+* DONE Paper 1: Analytical Essay <2023-12-08 Fri> :en:
+
+In the summative assessment for this unit, students will plan and compose an essay in response to a previously unstudied text, applying skills practiced in and outside class.
+
+* DONE Markets - Government Intervention <2023-12-04 Mon> :ec:
+
+Although the primary focus is government intervention students should be prepared to answer questions across all parts of the content taught to date as preparation for the final examinations at the end of the course. Having investigated how markets work, students will then look at market failure. They will look at the nature and causes of market failure before considering the strengths and weaknesses of possible government intervention to remedy market failures.
+
+This theme will provide a coherent coverage of microeconomic content with students drawing on local, national and global contexts. The assessment is Paper 1 (a) 10 marks to check for understanding of the define, draw and explain skills and then calculations totalling 10 marks.

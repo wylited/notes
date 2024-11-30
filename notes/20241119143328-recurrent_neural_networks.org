@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       53e711e6-8251-4470-b669-0e54f5dd722c
+:ROAM_ALIASES: RNN
+:END:
+#+title: Recurrent Neural Networks
+
+* Recurrent Neural Networks
+Consisting of three layers, the input layer, hidden layers and the output layer.

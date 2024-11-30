@@ -1,0 +1,29 @@
+* Dailys
+** TODO Facewash :DAILY:
+SCHEDULED: <2024-08-06 Tue +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-08-05 Mon 21:54]
+:END:
+- State "DONE"       from "TODO"       [2024-08-05 Mon 21:54]
+** TODO Meditate :DAILY:
+SCHEDULED: <2024-08-06 Tue +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2024-08-05 Mon 21:56]
+:END:
+
+- State "DONE"       from "TODO"       [2024-08-05 Mon 21:56]
+** TODO Read non-fiction :DAILY:
+SCHEDULED: <2024-08-05 Mon>
+* Weeklys
+** TODO Journal :WEEKLY:
+SCHEDULED: <2024-08-12 Mon +1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-08-05 Mon 21:54]
+:END:
+- State "DONE"       from "TODO"       [2024-08-05 Mon 21:54]
+** TODO Cook :WEEKLY:
+SCHEDULED: <2024-08-12 Mon +1w>
+:PROPERTIES:
+:LAST_REPEAT: [2024-08-05 Mon 21:55]
+:END:
+- State "DONE"       from "TODO"       [2024-08-05 Mon 21:55]

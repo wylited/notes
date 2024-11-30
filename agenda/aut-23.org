@@ -1,0 +1,191 @@
+#+title: Autumn
+
+* Tasks
+** WAIT STEMCademy Website [0%] <2023-09-30 Sat>
+stemcademy website
+- [ ] get vercel domain
+- [ ] mockup designs and wireframes on figma
+- [ ] feedback
+- [ ] website design
+- [ ] feature design
+
+** WAIT Stemcademy Posts [50%]
+- [-] Team Post
+  - [X] Cover
+  - [X] For each team
+  - [X] names
+  - [ ] images
+- [X] Article
+
+** HOLD [#C] Java literate programming guide [16%]<2023-09-13 Wed>
+- [X] HTML build
+- [X] CSS
+- [ ] Dark mode
+- [ ] Etbembo font
+- [ ] Hello World
+- [ ] Variables and Data Types
+- [ ] Conditional Branching
+- [ ] String Manipulation
+- [ ] Scanner
+- [ ] Iteration
+- [ ] Ascii
+- [ ] Binary Hex Octal
+
+** KILL [#D] Make Econ connections [0%]
+:PROPERTIES:
+:Effort:   2h
+:END:
++ [ ] Microeconomics
++ [ ] Macroeconomics
++ [ ] Globalization
+
+
+* Completed :ARCHIVE:
+** DONE [#C] Cellular Automata Backend Logic [80%]<2023-11-19 Sun>
+:PROPERTIES:
+:Effort:   5h
+:END:
+- [X] Frontend Backend Communication
+- [X] States and changes
+- [X] Probability roll changes (random)
+- [X] neighbours
+- [X] Script input<2023-09-04 Mon>
+- [X] neighbour functions properly without dependency on app.self
+  - [X] Kinda done idk if its morally correct
+- [X] change the available states dynamically
+- [X] revamp css and layout of page
+- [X] update buttons for editors, add link to slides and syntax book for rhai script
+- [X] caching cookies for the scripted values and grid size so everything doesnt reset on refresh
+- [ ] exporting scripts
+- [ ] exporting grid
+- [X] changing size of grid
+- [X] dynamically sizing cells
+- [ ] Peer testing
+
+** DONE [#A] Stemcademy wooden workshop [100%] <2023-09-04 Mon> :ARCHIVE:
+- [X] cover
+- [X] carousel 1
+- [X] carousel 2
+** DONE [#A] Submit form for TEDX application<2023-09-05 Tue> :ARCHIVE:
+** DONE [#A] Cellular Automata Presentation <2023-09-04 Mon> :ARCHIVE:
+- [X] Intro page cover
+- [X] Contents page
+- [X] explanation of cellular automata
+- [X] Introduction to cellular automata example
+- [X] example of how to custom script cellular automata
+- [X] simple tasks of scripting
+- [X] demo complex cellular automata program
+- [X] explain how to make more complex cellular automata program
+- [X] let children play around with a goal in mind for their program
+- [X] insane animations
+
+** DONE [#A] Cellular Automata Script [100%]<2023-09-06 Wed> :ARCHIVE:
+- [X] 1
+- [X] 2
+- [X] 3
+- [X] 4
+- [X] 5
+- [X] 6
+- [X] 7
+- [X] 8
+- [X] 9
+- [X] 10
+- [X] 11
+- [X] 12
+
+** DONE [#A] TOK Commentary [0%]<2023-09-22 Fri> :ARCHIVE:
+- [ ] Initial writing
+- [ ] Feedback
+
+** DONE [#A] Change to Eng Literature<2023-09-11 Mon> :ARCHIVE:
+- [X] Tutor
+- [X] Parents
+- [X] HOD
+- [X] HOY
+- [X] HOY
+
+** DONE TOK Exhibition prompt #13 <2023-10-09 Mon>
+** DONE [#A] Prepare for HKCERT CTF [100%]<2023-11-12 Sun>
+- [X] Binary Exploitation
+- [X] Cryptography
+- [X] Reverse Engineering
+- [X] Miscellaneous
+
+** DONE Prepare for CSMC [100%]<2023-11-16 Thu>
+- [X] Learn how to write fucking proofs
+- [X] 22
+- [X] 21
+- [X] 20
+- [X] 19
+- [X] 18
+- [X] 17
+- [X] 16
+- [X] 15
+- [X] 14
+- [X] 13
+- [X] 12
+- [X] 11
+
+** KILL [#C] Write steemagazine article <2023-10-23 Mon>
+** DONE [#C] 70split Keyboard Design [100%]
+- [X] Schematic
+  - [X] atmega
+  - [X] xtal_gnd crystal
+  - [X] decoupling capicitators
+  - [X] reset switch
+  - [X] HWB/PE2
+  - [X] USB C
+  - [X] Switch Matrix
+  - [X] Split communication through Serial
+- [X] PCB
+  - [X] switch layout
+  - [X] atmega layout
+  - [X] split layout
+  - [X] connector
+  - [X] router
+- [X] PCBA
+  - [X] Diodes
+  - [X] BOM
+  - [X] Centroid
+  - [X] Check with employee
+- [X] HackClub
+  - [X] PR approval
+- [X] Case
+  - [X] Left
+    - [X] base (DLGT -> Kevin)
+    - [X] middle (DLGT -> Kevin)
+    - [X] top (DLGT -> Kevin)
+    - [X] pcb
+  - [X] right
+    - [X] base (DLGT -> Kevin)
+    - [X] middle (DLGT -> Kevin)
+    - [X] top (DLGT -> Kevin
+    - [X] pcb
+
+** DONE [#A] Prepare for HKOI Senior Heat Event [100%]<2023-11-11 Sat>
+- [X] Make Form for HKOI application
+- [X] Submit applicants to Ms Ip
+** DONE [#A] French AB Initio Anki Notes [100%]
+- [X] Nationalities and Languages
+- [X] Greetings
+- [X] Anniversaire et Age
+- [X] Etre
+- [X] Avoir
+- [X] Famile
+- [X] Possessives
+- [X] Animaux
+- [X] Er Verbs
+- [X] to be called irregular verb
+- [X] Colors + gender
+- [X] Numbers
+- [X] Physical Features I
+- [X] Personality I
+** KILL [#A] Physics Section A [40%]<2023-09-05 Tue>
+ :PROPERTIES:
+:Effort:   10h
+:END:
+- [X] Kinematics
+- [X] Forces and Momentum
+- [ ] Work, Energy and Power
+- [ ] Rigid body mechanics
+- [ ] Galilean and Special Relativity

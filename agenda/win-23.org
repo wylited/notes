@@ -1,0 +1,98 @@
+#+title: Winter
+
+[Dec 1st - Mar 1st[
+
+<2023-12-01 Fri>--<2024-03-01 Fri> 91 days total,
+<2024-02-13 Mon>--<2024-03-01 Fri> 18 days left
+
+* Tasks
+** Completed :ARCHIVE:
+*** DONE Prepare for Economics 10 Marker test
+*** DONE Learn Linear algebra (done right) chapter 1 [10%]
+1. [-] Vector Spaces .1 [100%]
+   A. [X] .2
+   B. [X] .12
+   C. [X] .18
+
+*** DONE Write TOK essay
+- [X] choose prompt
+- [X] choose item
+- [X] write the fucking essay
+*** DONE Do KGV MUN
+- [X] Day 1
+- [X] Day 2
+- [X] Prep
+
+*** DONE [#A] French Winter Break Homework [76%]
+- [X] [[https://quizlet.com/323123117/personalities-and-physical-descritpions-flash-cards/][Physical description]] vocab
+- [X] [[https://quizlet.com/337937576/les-vetements-el-les-couleurs-flash-cards/][les vetements]] vocab
+- [X] [[https://quizlet.com/342909587/chez-moi-flash-cards/][chez moi]] vocab
+- [X] [[https://quizlet.com/345006265/a-la-maison-flash-cards/][les taches menageres]] vocab
+- [X] [[https://quizlet.com/535787390/la-routine-flash-cards/?x=1qqt][la routine]] vocab
+- [X] [[https://drive.google.com/file/d/1faNP__Q7GFVxCp33Zu6A-SFfvJJTDeEX/view?usp=drive_link][Irregular Verb worksheet]] + [[https://language-gym.com/listening/unit/15][Listening exercises]] grammar
+- [X] [[https://www.bbc.co.uk/bitesize/guides/zbk6cqt/revision/2][futur proche]] + practice at [[https://conjuguemos.com/verb/homework/2218917#dashboard][conjuguemos]] grammar
+- [X] Reading [[https://docs.google.com/document/d/1CAugz_g_zJM68dRrog6URz4eOjTfyKZEhK3iHw5iyAU/edit?usp=drive_link][c'est comment chez toi?]]
+- [ ] Reading past paper
+- [ ] [[https://eileen8919.wixsite.com/frenchrevision/view-download-files][listening]]
+  - [ ] 1
+  - [ ] 2
+  - [ ] 3
+- [X] [[https://flip.com/ad55a354][Speaking pt1]]
+- [ ] [[https://flip.com/5bb39d62][Speaking pt2]]
+- [X] [[https://docs.google.com/document/d/1rRrvEZEe9hWzjIxf0PeLAm1MiHmLdryiuwpiptnclU4/edit][Writing]]
+  - [X] 1
+  - [X] 2
+
+*** DONE [#A] Economics IA first draft [100%]
+- [X] select article
+- [X] Write introduction
+- [X] draw graphs
+- [X] Write analysis
+- [X] Write evaluation
+- [X] rewrite the whole IA
+- [X] feed to AI for rewrite + grammar check
+- [X] set up bibliography
+- [X] Implement nidhi's changes
+- [X] Submit first draft
+
+*** DONE Presents [100%]
+im gonna go broke man
+- [X] jules christmas
+- [X] EC xmas
+- [X] alexc xmas
+- [X] jules birthday (possibly clothing or something idk)
+
+*** DONE Review for Econ summative [0%]
+*** DONE Review for CCC [0%]
+*** DONE [#C] Physics IA First Draft [100%]
+- [X] Write up template
+- [X] Get photos from Mcevoy
+- [X] Methodology
+- [X] Data explanation
+- [X] Graphing
+- [X] Conclusion
+- [X] Evaluation
+- [X] Introduction and Hypothesis
+- [X] Data Collection
+  - [X] Repeat 1
+  - [X] Repeat 2
+  - [X] Repeat 3
+- [X] Data Processing
+
+*** DONE [#B] Review calculus [50%]
+- [X] basic differentiation
+- [X] implicit
+- [X] applications
+- [X] chain rule
+- [X] product rule
+- [X] quotient rule
+
+*** DONE Interhouse Computer Science [42%]
+- [X] Setup codeforces
+- [X] setup questions
+- [X] proposal
+
+*** DONE Stemcademy Posts [66%]
+*** DONE Prep for econ summative
+*** DONE prep for math summative (and the bad results)
+*** DONE prep for english lit summative

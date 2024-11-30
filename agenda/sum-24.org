@@ -1,0 +1,400 @@
+#+title: Summer '24
+
+[Jun 1st - Sep 1st[
+
+* Tasks
+** TODO Comp Sci IA finalize C
+Server side
+- [X] fix admin
+- [X] initial game state implementation
+- [ ] Proper admin setup and controls
+- [ ] proper game state implementaiton
+- [ ] Broadcasting messages, stateupdates and notifications
+- [ ] Recieve hider homebase
+- [ ] recieve seeker location and broadcast to hider
+- [ ] endgame detection
+
+Client side
+- [ ] Hider homebase selection
+- [ ] Location showing
+- [ ] Notifications and state updates
+- [ ] Question Lists
+
+** TODO Final Math EE Stretch<2024-08-19 Mon>
+- [X] Model low filter 2 ways
+- [X] Laplace Transform Transfer
+  - [X] Introduce the laplace transform and how we can use it to convert time domain to frequency domain
+  - [X] H(jw) frequency angle transfer function
+  - [X] Analyze poles and zeros for stability and frequency response
+- [-] Bode plot
+  - [X] Magnitude Response
+  - [X] Phase Response
+  - [ ] Graph square input against output
+- [ ] Source and cite everything
+- [ ] Conclusion
+  - [ ] Summarize results
+  - [ ] Implications, real world values
+  - [ ] Limitations
+  - [ ] Further action
+
+** TODO Macroecon IA
+- [X] Read other highscoring IA's
+- [X] Read the success criteria
+- [X] Reread the article
+- [X] Outline my essay and graphs that I will have
+- [X] Outline my key arguments
+- [X] Pick out key quotations from article
+- [X] Write first draft
+- [X] Get feedback
+- [X] DELETE stock market paragraph
+- [ ] Update diagram and be more convincing
+- [ ] Better economic theory explanation for monetary policy
+- [X] Update marginal propensity paragraph
+- [X] Update conclusion
+- [ ] Submit first draft
+
+** TODO Microecon IA
+- [ ] Read over microecon IA again
+- [ ] Read other highscoring IA's
+- [ ] Read the success criteria
+- [ ] Reread my IA
+- [ ] Redraw graph and redefine arguments
+- [ ] Quote more of the article
+
+** TODO French Recovery
+- [ ] Anki
+  - [ ] Add hypertts to all cards
+  - [ ] Write a scraper system for sentences from Tatoeba.org
+  - [ ] Add extra vocab from quizlet
+  - [ ] Add vocab from reading and writing papers
+- [ ] Speaking Practice
+  - [ ] Answer all questions in speaking booklet
+  - [ ] Memorize speaking answers
+  - [ ] Work on pronounciation and all
+  - [ ] Practice with questions and image under timed conditions
+- [ ] Listening Practice
+  - [ ] DELF A2
+    - [ ] 2
+    - [ ] 3
+    - [ ] 4
+  - [ ] DELF B1
+- [ ] Reading Practice
+  - [ ] Nov 07
+  - [ ] May 08
+  - [ ] Nov 08
+- [ ] Grammar Practice
+  - [ ] Imperfect tense
+  - [ ] Conditional tense
+  - [ ] Direct Object Pronouns
+** TODO English Recovery
+- [ ] Paper 2
+  - [ ] Read The Crucible + annotate a little
+  - [ ] Reread The Memory Police + annotate a little
+  - [ ] Highlight key quotes
+  - [ ] Read previous paper 1 questions and answers
+- [ ] Paper 1
+  - [ ] Do summer unseen analysis before sept
+  - [ ] Work with Shveni
+  - [ ] Practice one or two unseen analysis every week
+
+** TODO Physics Lionel Quizzes [18%]
+- [ ] [[https://lionel2.kgv.edu.hk/course/view.php?id=4445][A4]]
+  - [ ] Turning Forces Intro - IGCSE recap Quiz
+  - [ ] Angular Displacement, Velocity and Acceleration Quiz
+  - [ ] Torque and Rotational Equilibrium Quiz
+  - [ ] Moment of Inertia and Angular Momentum Quiz
+  - [ ] Angular Impulse, Rotational Kinetic Energy Quiz
+  - [ ] Practice Questions on Rigid Body Mechanics Quiz
+  - [ ] Rigid Body Multiple Choice Qs Quiz
+  - [ ] 10 Rotational MCQ (Tsokos) ADD HINTS
+- [ ] [[https://lionel2.kgv.edu.hk/course/view.php?id=4446][A5]]
+  - [ ] Special Relativity Part 1 Inertial frames Quiz
+  - [ ] Special Relativity Part 2 - Length and Time Dilation Quiz
+  - [ ] Special Relativity Part 3 - More Transforms Quiz
+  - [ ] Spacetime Diagrams Part 1 - Galilei Transform Quiz
+  - [ ] Spacetime Diagrams Part 2 - Lorentz Transform Quiz
+  - [ ] Spacetime Diagrams MCQ (Non IB) Quiz
+  - [ ] 10 Relativity MCQ (Tsokos) ADD HINTS
+- [ ] [[https://lionel2.kgv.edu.hk/mod/quiz/view.php?id=45885][B4 10 Thermodynamics MCQ (Tsokos)]]
+- [ ] [[https://lionel2.kgv.edu.hk/mod/quiz/view.php?id=47387][B IGCSE Review Potential Divider Quiz]]
+- [X] [[https://lionel2.kgv.edu.hk/course/view.php?id=4447][C3]]
+  - [X] Wave Fronts and Refraction
+  - [X] Double Slit Interference Quiz
+  - [X] Interference IB MCQ Quiz
+  - [X] Single Slit Diffraction HL only Quiz
+  - [X] Diffraction Grating HL only
+- [X] C4
+  - [X] [[https://lionel2.kgv.edu.hk/mod/quiz/view.php?id=46586][Standing Waves]]
+  - [X] [[https://lionel2.kgv.edu.hk/mod/quiz/view.php?id=46587][Standing Waves MCQ]]
+- [ ] C5
+  - [ ] Doppler Effect SL and HL Quiz
+  - [ ] Doppler Effect HL only Quiz
+  - [ ] C5 Doppler Effect SL and HL IB MCQ
+- [ ] [[https://lionel2.kgv.edu.hk/course/view.php?id=4448][D1]]
+  - [ ] Newton's Law of Gravitation HL and SL Quiz
+  - [ ] Gravitational Field Strength HL and SL Quiz
+  - [ ] Gravitational Fields IB MCQ HL and SL Quiz
+  - [ ] Kepler's Three Laws Quiz
+  - [ ] Equipotentials, Potential, HL Only Quiz
+  - [ ] Orbital Speed, Escape Speed HL Only Quiz
+  - [ ] IB MCQ Potential and Gravitational Fields HL Only
+- [ ] D2
+  - [ ] Electric Fields Quiz
+  - [ ] IB MCQ Electric Fields Quiz
+  - [ ] Electric Potential HL Quiz
+  - [ ] Potential in Electric and Magnetic Fields HL Only Quiz
+  - [ ] Potential IB MCQ HL Only
+- [ ] [[https://lionel2.kgv.edu.hk/mod/quiz/view.php?id=46637][D3 Magnetic effect]]
+- [ ] [[https://lionel2.kgv.edu.hk/mod/quiz/view.php?id=46638][D3 Motion in fields]]
+
+** TODO Physics Revision + Learning
+- [ ] Write physics notes
+  - [ ] A1, A2, A3, on org roam
+  - [ ] B1, B2, B3 relationships on org roam
+  - [ ] B4, B5 on org roam + circuit pratice and understanding for EE
+  - [ ] C1, C2, C3, C4, C5, on org roam
+- [ ] Compile MCQ's
+- [ ] Compile data response questions
+- [ ] Higher understanding of questions through notes
+- [ ] Practice long answer responses
+
+
+* Completed tasks :ARCHIVE:
+** DONE initial Comp Sci IA Crit A + B <2024-06-21 Fri>
+- [X] Stronger justification for specific elements of the proposal
+- [X] Portrayal of the game rules ??
+- [X] UML Diagram
+- [X] Game State flowchart
+- [X] Location sending flowchart
+- [X] Authentication flowchart
+- [X] Websocket communication back and forth diagram thingy
+  ACK ->
+   <- NACK
+- [X] Psuedocode for Depth First Search and Djistkra
+
+** DONE Summer Math EE [70%]
+- [X] Finalize research question
+- [X] Finalize initial outline
+- [X] Collect research sources
+- [X] Pick a writing software (probably typst)
+- [X] Determine circuit models
+  - [X] Simple
+  - [X] Complex
+- [X] Introduction
+  - [X] Motivation
+  - [X] Electrical Circuits
+  - [X] Electrical Systems
+  - [X] Ordinary Differential Equations
+- [X] Modelling
+
+** DONE Comp Sci IA Crit C summer grind [100%] <2024-06-21 Fri>
+backend
+- [X] Authentication
+- [X] Basic Database
+- [X] Basic Logging
+- [X] Websocket communication
+- [X] Config
+- [X] Authentication middleware
+- [X] TX RX split for webscokets
+- [X] Custom websocket message types
+- [X] Websocket connection status
+- [X] Teams
+
+frontend
+- [X] Flutter app setup
+- [X] Server form
+- [X] Location transmitter
+- [X] Github Actions
+  - [X] Android
+  - [X] IOS
+- [X] User form
+- [X] Websocket heartbeat
+- [X] Lobby view
+- [X] Team selection
+- [X] Map
+- [X] 30second location transmitter
+- [X] Map Markers
+- [X] IOS github IPA
+
+** DONE Summer French work
+- [X] Vocab Revision
+- [X] Grammar Revision
+- [X] Writing Practice
+- [X] Reading Practice
+- [X] Listening Practice
+
+** KILL Macroecon assessment<2024-09-02 Mon>
+- [ ] Read textbook for
+  - [ ] 3.1 Measuring economic activity and illustrating its variations
+  - [ ] 3.2 Variations in economic activity—aggregate demand and aggregate supply
+  - [ ] 3.3 Macroeconomic objectives (includes HL only calculation)
+- [X] Compile define questions and add to anki (2 marks)
+- [X] Compile formulas and add to anki (3 marks)
+- [ ] Compile draw and explain questions and add to anki (4 marks)
+- [ ] Practice every past paper question in existence.
+
+** KILL Comp Sci IA finalize C
+Server side
+- [X] fix admin
+- [X] initial game state implementation
+- [ ] Proper admin setup and controls
+- [ ] proper game state implementaiton
+- [ ] Broadcasting messages, stateupdates and notifications
+- [ ] Recieve hider homebase
+- [ ] recieve seeker location and broadcast to hider
+- [ ] endgame detection
+
+Client side
+- [ ] Hider homebase selection
+- [ ] Location showing
+- [ ] Notifications and state updates
+- [ ] Question Lists
+
+** KILL Final Math EE Stretch<2024-08-19 Mon>
+- [X] Model low filter 2 ways
+- [X] Laplace Transform Transfer
+  - [X] Introduce the laplace transform and how we can use it to convert time domain to frequency domain
+  - [X] H(jw) frequency angle transfer function
+  - [X] Analyze poles and zeros for stability and frequency response
+- [-] Bode plot
+  - [X] Magnitude Response
+  - [X] Phase Response
+  - [ ] Graph square input against output
+- [ ] Source and cite everything
+- [ ] Conclusion
+  - [ ] Summarize results
+  - [ ] Implications, real world values
+  - [ ] Limitations
+  - [ ] Further action
+
+** KILL Macroecon IA
+- [X] Read other highscoring IA's
+- [X] Read the success criteria
+- [X] Reread the article
+- [X] Outline my essay and graphs that I will have
+- [X] Outline my key arguments
+- [X] Pick out key quotations from article
+- [X] Write first draft
+- [X] Get feedback
+- [X] DELETE stock market paragraph
+- [ ] Update diagram and be more convincing
+- [ ] Better economic theory explanation for monetary policy
+- [X] Update marginal propensity paragraph
+- [X] Update conclusion
+- [ ] Submit first draft
+
+** KILL Microecon IA
+- [ ] Read over microecon IA again
+- [ ] Read other highscoring IA's
+- [ ] Read the success criteria
+- [ ] Reread my IA
+- [ ] Redraw graph and redefine arguments
+- [ ] Quote more of the article
+
+** KILL French Recovery
+- [-] Anki
+  - [X] Add hypertts to all cards
+  - [ ] Write a scraper system for sentences from Tatoeba.org
+  - [ ] Add extra vocab from quizlet
+  - [ ] Add vocab from reading and writing papers
+- [ ] Speaking Practice
+  - [ ] Answer all questions in speaking booklet
+  - [ ] Memorize speaking answers
+  - [ ] Work on pronounciation and all
+  - [ ] Practice with questions and image under timed conditions
+- [-] Listening Practice
+  - [-] DELF A2
+    - [X] 2
+    - [X] 3
+    - [ ] 4
+  - [X] DELF B1
+- [-] Reading Practice
+  - [X] Nov 07
+  - [X] May 08
+  - [ ] Nov 08
+- [ ] Grammar Practice
+  - [ ] Imperfect tense
+  - [ ] Conditional tense
+  - [ ] Direct Object Pronouns
+
+** KILL English Recovery
+- [ ] Paper 2
+  - [ ] Read The Crucible + annotate a little
+  - [ ] Reread The Memory Police + annotate a little
+  - [ ] Highlight key quotes
+  - [ ] Read previous paper 1 questions and answers
+- [-] Paper 1
+  - [ ] Do summer unseen analysis before sept
+  - [X] Work with Shveni
+  - [ ] Practice one or two unseen analysis every week
+
+** KILL Physics Lionel Quizzes [63%]
+- [ ] [[https://lionel2.kgv.edu.hk/course/view.php?id=4445][A4]]
+  - [ ] Turning Forces Intro - IGCSE recap Quiz
+  - [ ] Angular Displacement, Velocity and Acceleration Quiz
+  - [ ] Torque and Rotational Equilibrium Quiz
+  - [ ] Moment of Inertia and Angular Momentum Quiz
+  - [ ] Angular Impulse, Rotational Kinetic Energy Quiz
+  - [ ] Practice Questions on Rigid Body Mechanics Quiz
+  - [ ] Rigid Body Multiple Choice Qs Quiz
+  - [ ] 10 Rotational MCQ (Tsokos) ADD HINTS
+- [ ] [[https://lionel2.kgv.edu.hk/course/view.php?id=4446][A5]]
+  - [ ] Special Relativity Part 1 Inertial frames Quiz
+  - [ ] Special Relativity Part 2 - Length and Time Dilation Quiz
+  - [ ] Special Relativity Part 3 - More Transforms Quiz
+  - [ ] Spacetime Diagrams Part 1 - Galilei Transform Quiz
+  - [ ] Spacetime Diagrams Part 2 - Lorentz Transform Quiz
+  - [ ] Spacetime Diagrams MCQ (Non IB) Quiz
+  - [ ] 10 Relativity MCQ (Tsokos) ADD HINTS
+- [ ] [[https://lionel2.kgv.edu.hk/mod/quiz/view.php?id=45885][B4 10 Thermodynamics MCQ (Tsokos)]]
+- [ ] [[https://lionel2.kgv.edu.hk/mod/quiz/view.php?id=47387][B IGCSE Review Potential Divider Quiz]]
+- [X] [[https://lionel2.kgv.edu.hk/course/view.php?id=4447][C3]]
+  - [X] Wave Fronts and Refraction
+  - [X] Double Slit Interference Quiz
+  - [X] Interference IB MCQ Quiz
+  - [X] Single Slit Diffraction HL only Quiz
+  - [X] Diffraction Grating HL only
+- [X] C4
+  - [X] [[https://lionel2.kgv.edu.hk/mod/quiz/view.php?id=46586][Standing Waves]]
+  - [X] [[https://lionel2.kgv.edu.hk/mod/quiz/view.php?id=46587][Standing Waves MCQ]]
+- [X] C5
+  - [X] Doppler Effect SL and HL Quiz
+  - [X] Doppler Effect HL only Quiz
+  - [X] C5 Doppler Effect SL and HL IB MCQ
+- [X] [[https://lionel2.kgv.edu.hk/course/view.php?id=4448][D1]]
+  - [X] Newton's Law of Gravitation HL and SL Quiz
+  - [X] Gravitational Field Strength HL and SL Quiz
+  - [X] Gravitational Fields IB MCQ HL and SL Quiz
+  - [X] Kepler's Three Laws Quiz
+  - [X] Equipotentials, Potential, HL Only Quiz
+  - [X] Orbital Speed, Escape Speed HL Only Quiz
+  - [X] IB MCQ Potential and Gravitational Fields HL Only
+- [X] D2
+  - [X] Electric Fields Quiz
+  - [X] IB MCQ Electric Fields Quiz
+  - [X] Electric Potential HL Quiz
+  - [X] Potential in Electric and Magnetic Fields HL Only Quiz
+  - [X] Potential IB MCQ HL Only
+- [X] [[https://lionel2.kgv.edu.hk/mod/quiz/view.php?id=46637][D3 Magnetic effect]]
+- [X] [[https://lionel2.kgv.edu.hk/mod/quiz/view.php?id=46638][D3 Motion in fields]]
+
+** KILL Physics Revision + Learning
+- [ ] Write physics notes
+  - [ ] A1, A2, A3, on org roam
+  - [ ] B1, B2, B3 relationships on org roam
+  - [ ] B4, B5 on org roam + circuit pratice and understanding for EE
+  - [ ] C1, C2, C3, C4, C5, on org roam
+- [ ] Compile MCQ's
+- [ ] Compile data response questions
+- [ ] Higher understanding of questions through notes
+- [ ] Practice long answer responses
+
+** DONE Macroecon assessment<2024-09-02 Mon>
+- [X] Read textbook for
+  - [X] 3.1 Measuring economic activity and illustrating its variations
+  - [X] 3.2 Variations in economic activity—aggregate demand and aggregate supply
+  - [X] 3.3 Macroeconomic objectives (includes HL only calculation)
+- [X] Compile define questions and add to anki (2 marks)
+- [X] Compile formulas and add to anki (3 marks)
+- [X] Compile draw and explain questions and add to anki (4 marks)
+- [X] Practice every past paper question in existence.

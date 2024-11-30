@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2998fdc2-667d-4f45-8a65-5736e0cda272
+:END:
+#+title: Linguistic Nuances
+
+* Linguistic Nuances
+
+Subtle variations and intricacies in tone, meaning and usage that give languages depth.
+
+[[id:59ca94ac-73cf-48e5-aaba-876282e233d2][Natural Language Processing]] can be used to analyze linguistic nuances.

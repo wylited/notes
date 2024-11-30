@@ -1,0 +1,93 @@
+#+title: Autumn '24
+
+[Sep 1st - Dec 1st[
+In relative order of priority
+
+* Tasks
+** TODO CS IA Crit C <2024-09-10 Tue>
+Server Side
+- [ ] Proper admin setup
+- [ ] Proper gamestates
+  - [ ] Loop gameplay, (hider)
+- [ ] broadcasting system
+  - [ ] Messages
+  - [ ] State Updates
+  - [ ] Notifications
+  - [ ] Location
+- [ ] Recieve hider homebase
+- [ ] Recieve seeker location
+- [ ] End game detection
+
+Client Side
+- [ ] Admin interface
+- [ ] Location Shwoing
+- [ ] Hider homebase selection
+- [ ] Notifications and state updates and timers
+- [ ] Question Lists?
+- [ ] Game play buttons
+
+** TODO French Writing practice
+- [ ] Revise grammar structures
+- [ ] Learn new grammar structures
+- [ ] Learn more vocab and memorize it
+- [ ] Memorize text types
+- [ ] Memorize lots of sentences
+
+** TODO English Recovery
+- [ ] Do summer unseen practice
+- [ ] Finish reading the crucible
+- [ ] Watch the crucible?
+- [ ] Read widely about mccarthyism
+- [ ] Learner portfolio update
+  - [ ] Persepolis
+  - [ ] A Portrait of the self as a nation
+  - [ ] Frankenstein
+  - [ ] Map !!!
+  - [ ] Initial TMP annotations
+
+** TODO Micro IA
+- [ ] Reformat Text
+- [ ] Read other micro IA's
+- [ ] Redraw diagram
+
+** DONE TOK Essay
+- [X] Pick a prompt
+- [ ] Pick secondary AOK
+- [ ] Research some books
+
+** TODO French Listening practice
+- [ ] Sentences on anki
+- [X] DELF A2 listening past papers
+- [ ] DELF B1 listneing past papers
+
+** TODO French Reading practice
+- [ ] Complete Lingua reading A2
+- [X] Complete Lingua reading B1
+- [ ] Complete summer past papers
+- [ ] Do more past papers
+
+** TODO Math Finale
+- [ ] Finish Syllabus content in class
+- [ ] Go over one more time in textbook to make sure you know everything
+- [ ] Start doing revision village or past paper questions for 6 hours a week
+
+
+* Completed :ARCHIVE:
+** DONE Macroecon assessment<2024-09-04 Wed>
+- [X] Read textbook for
+  - [X] 3.1 Measuring economic activity and illustrating its variations
+  - [X] 3.2 Variations in economic activity—aggregate demand and aggregate supply
+  - [X] 3.3 Macroeconomic objectives (includes HL only calculation)
+- [X] Compile define questions and add to anki (2 marks)
+- [X] Compile formulas and add to anki (3 marks)
+- [X] Compile draw and explain questions and add to anki (4 marks)
+- [X] Practice every past paper question in existence.
+
+** DONE Macro IA
+
+** DONE Math EE
+- [X] General case proof for Eulers solution to ordinary differential equations
+- [X] Reexplain the whole circuit situation
+- [X] Write a conclusion
+- [X] Cite and source everything
+- [X] Rewrite all explanations

@@ -1,0 +1,101 @@
+#+title: Goals
+
+* 2024 szn
+A goal, process, effort and period.
+
+** Calinsthetics
+:PROPERTIES:
+:Effort:   300h
+:END:
+get stronger, leaner, more atheltic + higher stamina
++ [[org:agenda/workout.org][process]] (+ running long distance -> stamina)
++ 1+ hour in a day.
++ all year
+
+** Anki
+:PROPERTIES:
+:Effort:   91h 15m
+:END:
+get better at memorizing things for all fields
+language -> french, gujarati?
+economics, math?, physics, competitive programming, ibcs
++ do 15 mins of anki revision everyday
++ 15 mins of effort (lol)
++ all year
+
+** CyberSecurity + CTFS
+:PROPERTIES:
+:Effort:   288h
+:END:
+get better at cybersecurity and ctfs, cuz they are fun! + (really good prizes)
++ do polyuctf -> firebirdctf (hkust) -> some external ctf (ctftime?) -> HKCERT CTF
++ alot of effort, train different skills neccessary
++ GET FIRST PLACE!!!
++ train kgv students??
++ all year again lol
+
+** Competitive Programming
+:PROPERTIES:
+:Effort:   750h
+:END:
++ Do codeforces contests (check out codechef?) (get to expert by end of year, specialist by end of y12)
++ Do advent of code (2015-2023, 9 years, 450 questions before 2024 AOC)
++ Do USACO (reach gold standard)
++ Do CCC (be able to answer each question)
++ Do HKOI (get gold)
++ Aim for 100 codeforces questions per month (45 mins per question?, use your frees)
++ Do advent of code once u manage to do 100 codeforces questions in a month
++ aim for 1100 rating -> 1200 -> 1300 so on all the way up to 2000. Abuse learning stratergies and creativity.
+
+
+** Personal wellbeing
+:PROPERTIES:
+:Effort:   125h
+:END:
+ + fix sleep schedule 8-10 hours averaging (i say this while writing this at midnight)
++ eat healthier + more protein + less convience food outside
+  + Try to make filling snacks at home that I can take with me
+  + learn how to cook more stuff lmao
++ drink more water (sustained, bring bottles with me everywhere)
++ Skincare
+  + wash face ( already do this )
+  + moisturize more (do a bit more often)
+  + ice face in mornings
+  + cut nails more often - stop touching face so much
+  + use sunscreen?
++ mew more? perhaps
++ get good haircut (there looks like theres a good place near the desert shop for $140)
+
+** Social
++ make more friends outside of school, in my interest areas, varying age ranges
++ force yourself to talk to more people
++ be more likeable -> ask people if they want to go out somewhere
++ be more funny (perhaps requires stalking lmfao)
+
+** Computer science projects
+:PROPERTIES:
+:Effort:   90h
+:END:
++ CS IA (something good)
++ nancy
++ learn functional programming
+ dont feel like finishing this rn
+
+** Uni studying prep
+:PROPERTIES:
+:Effort:   120h
+:END:
+the stuff i like, in order of stuff I shld learn
++ Career security
+  + linear algebra, focus on matrix's
+  + eigenvectors and shit
+  + Applying linear algebra into computer science
+  + SIMD and parellelization -> optimization creativity
+  + learn basics of ML, AI, Neural Networks
+  + GPU optimization
+    + OpenCL, CUDA
++ Graphics
+  + Bezier curves
+  + Bezier surfaces
+  + taylor/maclaurin series approximation
+  + learning how to transfer math -> cs better

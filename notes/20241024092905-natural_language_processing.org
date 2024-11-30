@@ -5,14 +5,13 @@
 
 * Natural Language Processing
 
-NLP (Natural Language Processing) is a field of [[id:b1ba253e-c7fa-4989-85e3-400e3007c218][AI]] (Artificial Intelligence) that focuses on interaction through [[id:69af889d-7439-4fc7-bd6e-7189470323a9][natural language]].
+NLP (Natural Language Processing) is a field of [[id:b1ba253e-c7fa-4989-85e3-400e3007c218][artificial intelligence]]  that focuses on interaction through [[id:69af889d-7439-4fc7-bd6e-7189470323a9][natural language]].
 
-It does this through 5 processes:
+It does this through 5 step process:
 1. [[id:c2af6862-c1ab-4476-a551-1996edb4c61f][Lexical Analysis]]
 2. [[id:6bb247e8-9b75-42b0-b2ad-448a042cd21f][Syntatic Analysis]]
 3. [[id:32e28d51-9b9e-45ff-b59c-92b300cd4678][Semantic Analysis]]
 4. [[id:ee6f2cc4-1b74-4181-b5ad-3b137751311c][Discourse Integration]]
 5. [[id:5a905fee-9390-474b-873a-cc506fcc04de][Pragmatic Analysis]]
 
-NLP uses deep learning models to carry out this process.
-
+NLP uses [[id:556bb8a3-a968-4eba-b1f4-80e084591c81][deep learning models]] to carry out this process, specifically through [[id:53e711e6-8251-4470-b669-0e54f5dd722c][Recurrent Neural Networks]] or [[id:980518ed-d137-4cb9-a3d5-15912fa23a01][Transformer Neural Networks]]

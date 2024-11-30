@@ -1,0 +1,213 @@
+#+title: Summer
+
+Killed values have been moved to autumn or cancelled
+Done values have been completed in the summer 2023 period
+
+* DONE [#A] Sign up for KGV Privellege scheme team :ARCHIVE:
+:PROPERTIES:
+:Effort:   30m
+:END:
++ [[https://docs.google.com/forms/d/e/1FAIpQLSeg8do3hSxKyy5YrwM7eG5bDxezxIikwffn5FsF9P0bQnMKww/viewform][form to fill out]]
+
+* DONE Sign up for stemcademy :ARCHIVE:
+reiss is a founder
+
+* DONE [#A] Buy Senior School Uniform [0%] :ARCHIVE:
+:PROPERTIES:
+:Effort:   2h
+:END:
++ [X] Senior Shirt x2
++ [X] Senior Shorts x2
++ [X] Sweater x1
+
+* DONE STEMcademy wood workshop <2023-08-04 Fri> :ARCHIVE:
+
+* DONE STEMcademy astronomy slideshow [100%] <2023-08-16 Wed> :ARCHIVE:
+- [X] Solar system
+- [X] Info on specifics
+- [X] table of contents
+- [X] earth special features!
+- [X] asteroid and stars
+- [X] rockets
+- [X] Solar system steps + painting.
+
+* PUSH [#C] STEMcademy website [16%]
+- [X] get vercel domain
+- [ ] Interview reiss for comp sci ia
+- [ ] mockup wireframes on figma
+- [ ] get feedback on wireframes
+- [ ] home page on vercel
+- [ ] setup journals and blog posts with markdown.
+
+* DONE [#C] Physics Intro quizzes [100%] <2023-06-30 Fri>
+:PROPERTIES:
+:Effort:   1h
+:END:
++ [X] 1
++ [X] 2
++ [X] 3
++ [X] 4
++ [X] 5
++ [X] 6
++ [X] 7
++ [X] 8
+
+* PUSH [#D] Physics Section A [40%] <2023-07-05 Wed>
+:PROPERTIES:
+:Effort:   10h
+:END:
+- [X] Kinematics
+- [X] Forces and Momentum
+- [ ] Work, Energy and Power
+- [ ] Rigid body mechanics
+- [ ] Galilean and Special Relativity
+
+* PUSH [#E] Physics Section B [0%] <2023-07-19 Wed>
+:PROPERTIES:
+:Effort:   10h
+:END:
+1. [ ] Thermal energy transfers
+2. [ ] Greenhouse effect
+3. [ ] Gas laws
+4. [ ] Thermodynamics
+5. [ ] Current and Circuits
+
+* DONE [#B] Get Cambrdige Physics textbook <2023-07-08 Sat> :ARCHIVE:
+:PROPERTIES:
+:Effort:   1h
+:END:
+
+* DONE ESF CoCo Hackathon [100%] <2023-08-30 Wed> :ARCHIVE:
+** DONE [#C] SDG_2 Zero hunger [100%] <2023-08-20 Sun>
+- [X] Problem statement
+- [X] Examplar solution
+- [X] Explanation
+- [X] 5 Test cases
+
+** DONE DLGTD [#B] SDG_5 Gender equality [100%] <2023-08-20 Sun> :ARCHIVE:
+- [X] Problem statement
+- [X] Examplar solution
+- [X] Explanation
+- [X] 5 Test cases
+passed to alex climie
+
+** DONE [#B] SDG_8 Decent work and Economic growth [100%] <2023-08-20 Sun> :ARCHIVE:
+- [X] Problem statement
+- [X] Examplar solution
+- [X] Explanation
+- [X] 5 Test cases
+
+** DONE [#A] SDG_10 Reduce inequality [100%]<2023-08-20 Sun>
+- [X] Problem statement
+- [X] Examplar solution
+- [X] Explanation
+- [X] 5 Test cases
+
+* DONE [#B] Organize stationery :ARCHIVE:
+:PROPERTIES:
+:Effort:   20m
+:END:
+
+* PUSH [#D] Make Econ Notes [0%] <2023-07-26 Wed>
+:PROPERTIES:
+:Effort:   2h
+:END:
++ [ ] Microeconomics
++ [ ] Macroeconomics
++ [ ] Globalization
+
+* PUSH [#E] Study Econ Hl Formulae <2023-08-02 Wed>
+:PROPERTIES:
+:Effort:   2h
+:END:
+
+* DONE [#A] Get French Ab Initio Textbook <2023-07-03 Mon> :ARCHIVE:
+:PROPERTIES:
+:Effort:   10m
+:END:
++ from Satvi
+
+* CNCL [#D] Dim Analysis [33%]
+:PROPERTIES:
+:Effort:   2h
+:END:
+- State "CANCELLED"  from "DONE"       [2023-08-19 Sat 02:38] \\
+  not worth finishing
++ [X] 1 dimensional units
++ [X] Dimensions
++ [ ] Multi dimensional Units
++ [ ] Systems
++ [ ] repl
+
+* PUSH [#A] Cellular Automata Backend Logic [80%] <2023-08-30 Wed>
+:PROPERTIES:
+:Effort:   5h
+:END:
+- [X] Frontend Backend Communication
+- [X] States and changes
+- [X] Probability roll changes (random)
+- [X] neighbours
+- [ ] Script input
+- [ ] Peer testing
+
+* CNCL [#E] Hashing EE [0%] <2023-08-14 Mon>
+:PROPERTIES:
+:Effort:   5h
+:END:
+
+- State "CANCELLED"  from "DONE"       [2023-08-19 Sat 02:34] \\
+  may decide other ee topic -> pushed to later
+- State "HOLD"       from "WAITING"    [2023-08-19 Sat 02:33] \\
+  may decide for a different EE
++ [ ] CPP benchmarking tool
++ [ ] Python result aggregator and stats representation
+
+
+* DONE [#B] get openai API key <2023-07-30 Sun> :ARCHIVE:
+:PROPERTIES:
+:Effort:   1h
+:END:
++ [x] hardik bhai
++ [x] Sumit mama
+
+* DONE [#C] setup immich :ARCHIVE:
+:PROPERTIES:
+:Effort:   2h
+:END:
+
+* PUSH [#B] PCB for keyboard [0%] <2023-07-30 Sun>
+:PROPERTIES:
+:Effort:   2h
+:END:
++ [ ] layout all the switches
++ [ ] layout all the diodes
++ [ ] autoroute the copper
++ [ ] get quote
++ [ ] get it printed out
+
+* PUSH [#C] PCB for watch [0%] <2023-08-30 Wed>
+:PROPERTIES:
+:Effort:   5h
+:END:
++ [ ] Setup 3 buttons
++ [ ] Setup rotary dial
++ [X] Setup new accelometer
++ [ ] Make sure it works with a 400mah battery (instead of 200)
++ [ ] Simulate the chip (to make sure everything works)
++ [ ] order 6 screens
++ [ ] order 6 400 mah batteries
+
+* DONE [#A] Get a hanging bar <2023-07-30 Sun> :ARCHIVE:
+:PROPERTIES:
+:Effort:   10m
+:END:
+
+* DONE [#B] Buy more clothes <2023-07-30 Sun> :ARCHIVE:
+:PROPERTIES:
+:Effort:   1h
+:END:
+
+* DONE [#C] Get a formal outfit :ARCHIVE:
+:PROPERTIES:
+:Effort:   2h
+:END:

@@ -1,0 +1,22 @@
+#+title: Pomodoro
+
+* My edited pomodoro technique
+
+Basically the timings kinda take into account for stamina
+i- 30
+- 10
+- 30
+- 10
+- 25
+- 10
+- 25
+- 20
+- 20
+- 10
+- 20
+- end of a cycle
+
+210 minutes!
+3.5 hours!
+
+30 -> 10 -> 30 -> 10 -> 25 -> 10 -> 25 -> 15 -> 25

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7cbfa33a-00f9-40a5-b2b1-4c06602a0615
+:ROAM_ALIASES: NN
+:END:
+#+title: Neural Networks
+
+* Neural Networks
+
+In machine learning, neural networks NN, is a model inspired by the structure and function of the brain.
+
+An NN consists of neurons, based off of the brains neurons.
+1) The neuron recieves a signal
+2) The neuron processes the signal
+3) The neuron sends a signal
+
+The output of each neuron is determined by a function of the inputs recieved, called an activation function. The strength the output signal at each neuron is called a weight, and is adjusted during learning.
+
+Neurons are aggregated into layers, the first layer is used for the inputs and the last layer is considered the output. The middle layers are also referred to as hidden or processing layers.
+
+Neural networks with multiple hidden layers are called deep learning machines, such as:
+- [[id:53e711e6-8251-4470-b669-0e54f5dd722c][RNN]]
+- [[id:980518ed-d137-4cb9-a3d5-15912fa23a01][TNN]]

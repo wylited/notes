@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       556bb8a3-a968-4eba-b1f4-80e084591c81
+:END:
+#+title: Deep Learning Models
+
+* Deep Learning Models
+[[id:7cbfa33a-00f9-40a5-b2b1-4c06602a0615][Neural Networks]] with multiple middle layers, thus *deep*.
+Types of Deep Learning Models:
+- [[id:53e711e6-8251-4470-b669-0e54f5dd722c][Recurrent Neural Networks]]
+- [[id:980518ed-d137-4cb9-a3d5-15912fa23a01][Transformer Neural Networks]]

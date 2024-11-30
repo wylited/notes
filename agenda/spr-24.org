@@ -1,0 +1,172 @@
+#+title: Spring '24
+
+[Mar 1st - Jun 1st[
+
+<2024-03-01 Fri>--<2024-06-01 Sat> 93 days total,
+
+* Tasks
+** DONE English Work <2024-04-19 Fri>
+- [X] read poems set over easter break
+- [X] analyze poems set over easter break
+- [X] decide on mock io texts
+- [X] Analyze persepolis pg 193-195
+- [X] Analyze How I got that Name marilyn
+- [X] Pick a solid global issue
+- [X] Pick wider body extracts from persepolis
+- [X] Pick wider body extracts from How I got that name
+- [X] Complete Mock IO
+- [X] Pick Real IO Global Issue
+- [X] Pick frankenstein excerpt
+- [X] Pick szymborska excerpt
+- [X] Pick arguments
+- [X] Pick widerbody extracts
+- [X] Formulate planner
+- [ ] Practice Planner
+- [ ] get feedback on planner
+- [ ] Write a few script variations
+- [ ] get feedback on speaking
+- [ ] memorize script
+
+** KILL ECSS [50%]
+- [X] have a kick off meeting <2024-03-13 Wed>
+- [X] Get anna on the team
+- [-] Outreach to
+  - [X] STC
+  - [X] CIS
+  - [ ] SIS
+  - [ ] IS
+  - [ ] DC
+- [-] Website
+  - [X] Decide on technologies (astro.js)
+  - [ ] Navigation bar
+  - [ ] Home Page
+  - [ ] Dynamic content for opportunities
+  - [ ] Dynamic content for projects
+  - [ ] mdx
+  - [ ] Form
+  - [ ] AstroDB backend
+
+** TODO CS IA [40%]
+- [X] get a client
+- [X] write a feature list
+- [X] outline complexity
+- [X] Do a short interview b4 easter <2024-03-19 Tue>
+- [ ] Finalize technologies
+- [ ] setup egui
+- [ ] Mockup code structure
+- [ ] Mockup UI
+- [ ] Mockup framework for question
+- [ ] Setup question framework parser
+
+** TODO EE Research
+- [ ] Understand the concept of control systems
+- [ ] collate research into a google doc
+- [ ] math behind control systems
+- [ ] small example calculation
+- [ ] both matrix and fourier transformed
+- [ ] try one that uses coupled differential equations
+
+** TODO org roam notes website [11%]
+- [ ] monopolies
+- [X] Demand
+- [X] Supply
+- [ ] Markets
+- [ ] Market failure
+- [ ] Market power
+- [ ] externalities
+- [ ] Government intervention
+- [ ] physics A1
+- [ ] A2
+- [ ] A3
+- [ ] B1
+- [ ] B2
+- [ ] B3
+- [ ] B4
+- [ ] B5
+- [ ] try to work on org roam ui / revamp org roam ui?
+
+** TODO ESF Sustainability Policy
+- [ ] Get KGV's En-trak Data
+- [ ] TASS Coordination
+- [ ] Member engagement
+- [ ] Get esf wide data?
+
+** TODO [#B] learn calculus [12%]
+- [X] basic integration
+- [ ] trignometry
+- [ ] integration by parts
+- [ ] u sub
+- [ ] partial fractions
+- [ ] trig sub
+- [ ] transforms, laplace and fourier
+- [ ] multivariable
+
+** TODO Learn differential equations
+** TODO Learn Linear algebra (done right) [10%]
+** TODO Fix up blog system [0%]
+- [ ] Split blog and prose
+- [ ] Write a blog for how to make my note system
+- [ ] add music lyrics to prose values
+- [ ] Look at shadcn/ui
+
+** WAIT Java literate programming guide [16%]
+- [X] HTML build
+- [X] CSS
+- [ ] Dark mode
+- [ ] Etbembo font
+- [ ] Hello World
+- [ ] Variables and Data Types
+- [ ] Conditional Branching
+- [ ] String Manipulation
+- [ ] Scanner
+- [ ] Iteration
+- [ ] Ascii
+- [ ] Binary Hex Octal
+
+** WAIT STEMCademy Website [0%]
+stemcademy website
+- [ ] get vercel domain
+- [ ] mockup designs and wireframes on figma
+- [ ] feedback
+- [ ] website design
+- [ ] feature design
+
+** WAIT Stemcademy posts <2024-03-06 Wed>
+- [ ] department leaders
+- [ ] get design started on more posts
+
+
+** Completed :ARCHIVE:
+
+*** DONE TOK Exhibition <2024-05-08 Wed>
+- [X] Pick three objects
+- [X] Pick question
+- [X] finish mock
+- [X] get feedback
+- [X] Update and finish final
+
+*** DONE Review for CSHL Exam [0%]<2024-03-21 Thu>
+- [ ] review the content
+- [ ] spam past papers
+- [ ] memorize markschemes
+
+*** DONE Physics IA Final Draft [100%]<2024-03-18 Mon>
+- [X] add symbols list
+- [X] explain introduction better
+- [X] try to linearize graph
+- [X] explain what variables of equation could suggest
+- [X] fix conclusion, find quantative sources
+- [X] fix evaluation, just clean up things
+
+*** DONE French Ab Initio Reading summative
+*** DONE Econ HL Summative
+
+*** DONE Interhouse computer science [77%]<2024-03-20 Wed>
+- [X] setup accounts
+- [X] add more questions
+- [X] Send emails
+- [X] fix up google form
+- [X] get participants
+- [X] bulletin message
+
+*** DONE Econ IA Final Draft<2024-04-19 Fri>

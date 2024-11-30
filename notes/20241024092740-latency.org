@@ -3,4 +3,6 @@
 :END:
 #+title: Latency
 
+* Latency
+
 The delay before a response or an output is recieved after an input.
