@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       b4b646bd-fc4c-4b42-9282-cb5710a98b90
+:END:
+#+title: Collision
+
+* Collision
+A short-duration interaction between two bodies or more causing a change in motion.
+
+All collisions [[id:56ebac53-0f41-46cf-9f52-b20809cea750][conserve momentum]].
+
+A collision is elastic when kinetic energy is conserved.
+inelastic if total kinetic energy is lower.
+and an explosion if total kinetic energy is larger.

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cbda235c-0d41-4d5c-a11c-1cf3093bbd49
+:END:
+#+title: Projectile Motion
+#+filetags: :kinematics:physics:
+
+* Projectile Motion
+The [[id:2426bbc0-56ce-4e3f-b8a2-0da3509e78d2][motion]] of a projectile is a [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]] vector, that can be broken down into an $x$ and $y$ components.
+
+$$ \bm{v_0} = v_0 \hat{x} + v_0 \hat{y} $$
+
+Given the angle of release
+$$ v_x = v_0 cos(theta) $$
+$$ v_y = v_0 sin(theta) $$
+
+In the absence of fluid resistance or "air resistance", projectiles will follow [[id:6b5390e2-cf7e-4005-8f8e-0d1d7b08487e][uniform motion]].
+
+Qualitatively, fluid resistance will cause projectiles to have a lower time of flight, trajectory, velocity, acceleration, range and time of flight

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2426bbc0-56ce-4e3f-b8a2-0da3509e78d2
+:END:
+#+title: Motion
+#+filetags: :kinematics:physics:
+
+* Motion
+
+When an object changes its [[id:764a93ce-2166-44d0-989b-11e980137c73][position]] with respect to a reference point in a given [[id:e3c5c6ba-e046-41b6-8fe6-64a89cc0ab3d][time]].
+
+Described in terms of [[id:86113031-0043-4b9f-ba97-ef871b8b6f4d][Displacement]], [[id:e646ac15-08f6-4657-818a-f46be8078f65][Distance]], [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][Velocity]], [[id:a9074e56-9216-4f34-bb27-fd753325f667][Acceleration]], Speed, and [[id:4fe49e8e-9236-47bd-ba48-4ed125145d3e][Reference Frame]] to an observer.
+
+Under [[id:b8bc6c39-75cc-4a88-9229-63243ccfa00c][Classical Mechanics]], the three laws of motion are
+1) [[id:d7cbd31f-0b0b-4969-9311-b5a4e0b3467e][First Law of Motion]]
+2) [[id:18f4b828-0c98-4147-9d28-989b4b4db08d][Second Law of Motion]]
+3) [[id:dbd481e1-e5f9-4990-85d4-f3b3d9a22544][Third Law of Motion]]
+
+** Types of Motion
+- Linear Motion
+- Circular Motion
+- [[id:cbda235c-0d41-4d5c-a11c-1cf3093bbd49][Projectile Motion]]
+- [[id:6b5390e2-cf7e-4005-8f8e-0d1d7b08487e][Uniform Motion]]

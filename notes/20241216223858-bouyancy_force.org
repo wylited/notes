@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       99de3b0e-acb6-42dd-9796-7aff4aeac328
+:END:
+#+title: Bouyancy Force
+#+filetags: :kinematics:physics:
+* Bouyancy Force $F_b$
+Is the force acting on a body due to the displacement of a fluid given by $F_b = \rho V g$ where $\rho$ is the fluid density, $V$ is the volume displaced, and $g$ is the gravitational [[id:a9074e56-9216-4f34-bb27-fd753325f667][acceleration]].

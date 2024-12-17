@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0d487f69-6ee9-42bd-a040-56ee84f7d2c3
+:END:
+#+title: Normal Force
+
+* Normal Force $F_n$
+Is the component of the contact [[id:afae86d7-adba-4683-a91f-5ce11d834da7][force]] acting perpendicular to the surface that is counteracting the body.

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       cab6f32c-fddf-403e-aef6-b5f0b9cbb397
+:ROAM_ALIASES: "Elastic Restoring Force"
+:END:
+#+title: Spring Force
+* Spring Force $F_H$
+The [[id:afae86d7-adba-4683-a91f-5ce11d834da7][force]] follows Hooke's law as given by $F_H = -kx$ where $k$ is the spring constant

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       aed17251-e941-4fac-ab0e-c095852cf3ed
+:ROAM_ALIASES: "Translational Momentum"
+:END:
+#+title: Linear Momentum
+#+filetags: :kinematics:physics:
+
+* Linear Momentum
+Describing the movement of a particle in relation to its mass. For a single particle:
+
+$$ p = mv $$
+where $m$ is mass, and $v$ is velocity
+
+The momentum of a system is the vector sum of their momenta.
+
+$$ p = \sum{m_i v_i}_i $$
+
+In a closed system, linear [[id:56ebac53-0f41-46cf-9f52-b20809cea750][momentum is conserved]].

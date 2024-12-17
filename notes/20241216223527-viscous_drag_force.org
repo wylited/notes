@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       54678436-00fd-4d53-adb7-7c27e4ce75b0
+:END:
+#+title: Viscous Drag Force
+#+filetags: :kinematics:physics:
+* Viscous Drag Force $F_d$
+Is the [[id:afae86d7-adba-4683-a91f-5ce11d834da7][force]] acting on a small sphere opposing its motion through a fluid as given by
+
+$$ F_d = 6 \pi \eta r v $$
+
+Where, $\eta$ is fluid viscosity, $r$ is ball radius, $v$ is the velocity of the sphere.

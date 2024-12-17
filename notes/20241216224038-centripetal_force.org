@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       03a21da0-7fca-4cea-b807-49cdba1d095d
+:END:
+#+title: Centripetal Force
+#+filetags: :physics:kinematics:
+
+* Centripetal Force $F_c$
+Is a [[id:afae86d7-adba-4683-a91f-5ce11d834da7][force]] that make a body follow a curved path due to the direction of the force being orthogonal/perpendicular to the motion of the body.
+
+$$ F_c = \frac{mv^2}{r} $$
+
+This causes a [[id:f8cd303f-418f-4380-99b1-3d990f10e859][centripetal acceleration]] on the body.

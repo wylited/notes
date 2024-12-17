@@ -9,3 +9,9 @@
 When a body is acted upon by a net force, the body's acceleration multiplied by its mass is equal to the net force.
 
 $$ F_{net} = m \cdot a $$
+
+However, this assumes that mass is constant. Alternatively, using [[id:8e125508-74d6-4fa9-9733-00821f36d25e][momentum]] ($p$)
+
+$$ F_{net} = \frac{\Delta p}{\Delta t} = \frac{\Delta m \Delta v}{\Delta t} $$
+
+mass can change.

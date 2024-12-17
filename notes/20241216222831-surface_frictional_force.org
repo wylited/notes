@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       94a2072e-0918-4072-adb4-80c562115a92
+:END:
+#+title: Surface Frictional Force
+#+filetags: :kinematics:physics:
+* Surface Frictional Force $F_f$
+Acts parallel to the plane of contact between a body and a surface.
+
+For a stationary body, $F_f \le \mu_s F_n$ where $\mu_s$ is the coefficient of static friction.
+
+And $F_f = \mu_d F_n$ where $\mu_d$ is the coefficient of dynamic friction for a body in motion.

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e4d70e84-5640-4dd5-a041-66a622f0c11f
+:END:
+#+title: Impulse
+
+* Impulse
+The change in momentum of an object.
+
+$J = F \Delta t = \Delta p $
+
+where $F$ is [[id:afae86d7-adba-4683-a91f-5ce11d834da7][force]], $\Delta t$ is change in [[id:e3c5c6ba-e046-41b6-8fe6-64a89cc0ab3d][time]], and $\Delta p$ is change in [[id:8e125508-74d6-4fa9-9733-00821f36d25e][momentum]].

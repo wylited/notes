@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       89cde185-6acf-4853-8879-5c66b216fcd8
+:END:
+#+title: Gravitational Force
+#+filetags: :kinematics:physics:
+* Gravitational Force $F_g$
+Is a field [[id:afae86d7-adba-4683-a91f-5ce11d834da7][force]] that describes the "weight" of a body given through
+
+$$ F_g = mg $$
+
+where $g$ is gravitational [[id:a9074e56-9216-4f34-bb27-fd753325f667][acceleration]].
+
+$ F_g = G \frac{m_1 m_2}{r^2} $
+
+where $G$ is the gravitational constant, $m_1$ and $m_2$ are the masses of the bodies, and $r$ is the distance between them.

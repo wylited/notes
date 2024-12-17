@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       85a0f3e6-9d6d-47b1-9d49-e0a6a9ac04b4
+:END:
+#+title: Circular Motion
+#+filetags: :circular_motion:physics:
+
+* Circular Motion
+
+The movement of an object along the circumference of a circle or rotation along a circular arc, which can be described using [[id:094f913a-68f8-4671-8e10-701429f0456f][angular velocity]]
+
+Circular motion is caused by a [[id:03a21da0-7fca-4cea-b807-49cdba1d095d][Centripetal Force]] or [[id:f8cd303f-418f-4380-99b1-3d990f10e859][Centripetal Acceleration]].
+
+This causes the body to change direction although the magnitude of [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]] remains constant.

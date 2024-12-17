@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       094f913a-68f8-4671-8e10-701429f0456f
+:END:
+#+title: Angular Velocity
+
+* Angular Velocity
+Describes how fast a body rotates around a reference point, this can either be an orbit point or the bodies center of rotation for spin.
+
+$$ omega = \frac{\delta theta}{\delta t} $$
+
+with units $$ rad s^-1 $$

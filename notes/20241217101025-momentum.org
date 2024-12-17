@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8e125508-74d6-4fa9-9733-00821f36d25e
+:END:
+#+title: Momentum
+
+* Momentum
+A [[id:e3035fbf-331c-42f6-95d2-5b4c2b525ec7][vector quantity]], the product of [[id:dffc42d0-cc64-4433-831d-625c5c79fa52][mass]] and [[id:0517a9e5-92f8-4613-99ce-d770dbe1eb28][velocity]].
+In a closed system, total momentum remains constant, aka the [[id:56ebac53-0f41-46cf-9f52-b20809cea750][conservation of momentum]].
+
+However, momentum is a measurable quantity and thus depends on the [[id:4fe49e8e-9236-47bd-ba48-4ed125145d3e][reference frame]].
+
+Notably, there is [[id:aed17251-e941-4fac-ab0e-c095852cf3ed][linear momentum]] and angular momentum.

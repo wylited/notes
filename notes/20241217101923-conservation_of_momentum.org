@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       56ebac53-0f41-46cf-9f52-b20809cea750
+:END:
+#+title: Conservation of Momentum
+#+filetags: :kinematics:physics:
+
+* Conservation of Momentum
+In a closed system, momentum is conserved
+
+$$ \sigma{mv_{before}} = \sigma{mv_{after}} $$

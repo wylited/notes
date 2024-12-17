@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       0515b297-ac66-480b-a124-cd2b59f58c09
+:END:
+#+title: Electric Force
+#+filetags: :electromagnetism:physics:
+* Electric Force $F_e$
+Is a field force caused by electric charges
+
+$$ F_e = k \frac{q_1 q_2}{r^2} $$
+
+Where $k$ is coulumbs constant, $q_1$ and $q_2$ are the charges of the particles, and $r$ is the distance between the particles.

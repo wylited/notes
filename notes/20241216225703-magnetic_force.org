@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d3750f3b-5f70-4899-853c-6c27af91b3df
+:END:
+#+title: Magnetic Force
+* Magnetic Force $F_m$
+
+The magnetic [[id:afae86d7-adba-4683-a91f-5ce11d834da7][force]] on a charged particle is given by the equation
+
+$$ F_m = qvB \sin(\theta) $$
+
+where $q$ is the charge of the particle, $v$ is the velocity, $B$ is the magnetic field strength
+and $\theta$ is the angle between the velocity vector and the magnetic field. Which can also be represented using the cross product.
+
+$$ F_m = q\vec{v} \times \vec{B} $$
